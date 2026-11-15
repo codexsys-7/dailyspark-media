@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.106,
+  "end": 2.335,
+  "text": "Diffusion language models can rewrite their own"
+ },
+ {
+  "start": 2.335,
+  "end": 3.983,
+  "text": "text. But when should they?"
+ },
+ {
+  "start": 4.62,
+  "end": 8.214,
+  "text": "Unlike left-to-right chatbots, diffusion models can remask"
+ },
+ {
+  "start": 8.252,
+  "end": 9.44,
+  "text": "and revise words."
+ },
+ {
+  "start": 9.691,
+  "end": 12.639,
+  "text": "The researchers found token confidence doesn't reliably"
+ },
+ {
+  "start": 12.639,
+  "end": 15.006,
+  "text": "reveal errors, but hidden states do."
+ },
+ {
+  "start": 15.65,
+  "end": 18.186,
+  "text": "They built DiVR, a verifier that predicts"
+ },
+ {
+  "start": 18.186,
+  "end": 19.896,
+  "text": "whether a partial answer will end up"
+ },
+ {
+  "start": 19.896,
+  "end": 22.124,
+  "text": "correct, and decides when to regenerate a"
+ },
+ {
+  "start": 22.124,
+  "end": 24.232,
+  "text": "block, without changing the generator."
+ },
+ {
+  "start": 24.88,
+  "end": 28.002,
+  "text": "On five reasoning benchmarks with LLaDA 8B,"
+ },
+ {
+  "start": 28.229,
+  "end": 31.154,
+  "text": "average accuracy rose from 35.3 to"
+ },
+ {
+  "start": 31.154,
+  "end": 33.854,
+  "text": "43.4 percent, at lower cost"
+ },
+ {
+  "start": 33.854,
+  "end": 35.077,
+  "text": "than search baselines."
+ },
+ {
+  "start": 35.718,
+  "end": 37.711,
+  "text": "Knowing when to revise can matter as"
+ },
+ {
+  "start": 37.711,
+  "end": 39.052,
+  "text": "much as generating well."
+ }
+]

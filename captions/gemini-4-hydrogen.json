@@ -1,0 +1,92 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.323,
+  "text": "Google just made its fastest Gemini 4"
+ },
+ {
+  "start": 2.323,
+  "end": 3.983,
+  "text": "model available to everyone."
+ },
+ {
+  "start": 4.62,
+  "end": 6.386,
+  "text": "Meet Gemini 4 Hydrogen."
+ },
+ {
+  "start": 6.637,
+  "end": 9.075,
+  "text": "While Carbon and Argon handle deep reasoning,"
+ },
+ {
+  "start": 9.29,
+  "end": 11.645,
+  "text": "Hydrogen is built for fast execution:"
+ },
+ {
+  "start": 11.873,
+  "end": 13.532,
+  "text": "writing code, running tests,"
+ },
+ {
+  "start": 13.559,
+  "end": 14.794,
+  "text": "and agent workflows."
+ },
+ {
+  "start": 15.434,
+  "end": 17.557,
+  "text": "Google says it finishes tasks two and"
+ },
+ {
+  "start": 17.557,
+  "end": 19.986,
+  "text": "a half times faster than Gemini 3.8"
+ },
+ {
+  "start": 19.986,
+  "end": 22.801,
+  "text": "Flash, more than triples its Terminal-Bench score,"
+ },
+ {
+  "start": 22.923,
+  "end": 24.491,
+  "text": "and cuts fabricated claims by"
+ },
+ {
+  "start": 24.491,
+  "end": 25.702,
+  "text": "over five times."
+ },
+ {
+  "start": 26.344,
+  "end": 28.196,
+  "text": "It costs a dollar fifty per million"
+ },
+ {
+  "start": 28.196,
+  "end": 31.494,
+  "text": "input tokens across a one-million-token context."
+ },
+ {
+  "start": 31.733,
+  "end": 34.151,
+  "text": "And a new Orchestrator in Antigravity switches"
+ },
+ {
+  "start": 34.151,
+  "end": 35.669,
+  "text": "between models mid-session."
+ },
+ {
+  "start": 36.33,
+  "end": 38.143,
+  "text": "The trend: big models plan,"
+ },
+ {
+  "start": 38.323,
+  "end": 39.699,
+  "text": "fast models do the work."
+ }
+]

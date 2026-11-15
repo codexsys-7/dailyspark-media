@@ -1,0 +1,87 @@
+[
+ {
+  "start": 0.083,
+  "end": 2.441,
+  "text": "An idea from the 1980s just out-trained"
+ },
+ {
+  "start": 2.441,
+  "end": 5.138,
+  "text": "modern reasoning models by a thousand times."
+ },
+ {
+  "start": 5.796,
+  "end": 7.4,
+  "text": "Looped models are a popular way to"
+ },
+ {
+  "start": 7.4,
+  "end": 9.437,
+  "text": "teach AI to reason through puzzles,"
+ },
+ {
+  "start": 9.558,
+  "end": 11.005,
+  "text": "but they can be unstable,"
+ },
+ {
+  "start": 11.186,
+  "end": 13.541,
+  "text": "slow to train, and heavy on compute."
+ },
+ {
+  "start": 14.186,
+  "end": 16.356,
+  "text": "Researchers trained a version of Hopfield and"
+ },
+ {
+  "start": 16.356,
+  "end": 18.358,
+  "text": "Tank's energy model, called CRAM."
+ },
+ {
+  "start": 18.597,
+  "end": 22.936,
+  "text": "It solved 99.996 percent of Sudoku-Extreme and"
+ },
+ {
+  "start": 22.936,
+  "end": 25.731,
+  "text": "every Maze-Unique test puzzle after milliseconds of"
+ },
+ {
+  "start": 25.731,
+  "end": 27.391,
+  "text": "training on one GPU."
+ },
+ {
+  "start": 28.048,
+  "end": 30.584,
+  "text": "It also matched looped models' best Sudoku"
+ },
+ {
+  "start": 30.584,
+  "end": 33.544,
+  "text": "accuracy with at least 282 times"
+ },
+ {
+  "start": 33.544,
+  "end": 34.885,
+  "text": "fewer inference FLOPs."
+ },
+ {
+  "start": 35.526,
+  "end": 37.492,
+  "text": "Energy-based methods look promising,"
+ },
+ {
+  "start": 37.684,
+  "end": 38.923,
+  "text": "and easy puzzles may be"
+ },
+ {
+  "start": 38.923,
+  "end": 40.452,
+  "text": "weak reasoning benchmarks."
+ }
+]

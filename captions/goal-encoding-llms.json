@@ -1,0 +1,87 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.461,
+  "text": "Do language models actually have goals inside?"
+ },
+ {
+  "start": 2.7,
+  "end": 3.605,
+  "text": "This paper looked."
+ },
+ {
+  "start": 4.26,
+  "end": 5.377,
+  "text": "In a coding task,"
+ },
+ {
+  "start": 5.44,
+  "end": 8.116,
+  "text": "researchers found the model's next sub-goal encoded"
+ },
+ {
+  "start": 8.116,
+  "end": 10.141,
+  "text": "in a small set of attention heads,"
+ },
+ {
+  "start": 10.274,
+  "end": 11.56,
+  "text": "and could even decode it"
+ },
+ {
+  "start": 11.56,
+  "end": 12.736,
+  "text": "into plain English."
+ },
+ {
+  "start": 13.406,
+  "end": 14.724,
+  "text": "The signal is causal:"
+ },
+ {
+  "start": 14.939,
+  "end": 17.53,
+  "text": "transplant it into a different programming language,"
+ },
+ {
+  "start": 17.64,
+  "end": 19.597,
+  "text": "and the model performs the same operation"
+ },
+ {
+  "start": 19.597,
+  "end": 20.514,
+  "text": "with different code."
+ },
+ {
+  "start": 21.172,
+  "end": 23.519,
+  "text": "Their explanation: the model doesn't carry the"
+ },
+ {
+  "start": 23.519,
+  "end": 26.263,
+  "text": "goal forward. It keeps re-reading the task,"
+ },
+ {
+  "start": 26.302,
+  "end": 28.138,
+  "text": "compares it with progress so far,"
+ },
+ {
+  "start": 28.342,
+  "end": 29.777,
+  "text": "and pursues what remains."
+ },
+ {
+  "start": 30.414,
+  "end": 33.079,
+  "text": "Interpretability is starting to reveal how models"
+ },
+ {
+  "start": 33.079,
+  "end": 34.456,
+  "text": "plan their next step."
+ }
+]

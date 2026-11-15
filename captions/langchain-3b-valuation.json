@@ -1,0 +1,92 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.512,
+  "text": "The open source project behind early LLM"
+ },
+ {
+  "start": 2.512,
+  "end": 5.233,
+  "text": "apps is now worth three billion dollars."
+ },
+ {
+  "start": 5.868,
+  "end": 8.592,
+  "text": "LangChain raised a 300 million dollar Series"
+ },
+ {
+  "start": 8.592,
+  "end": 10.099,
+  "text": "C led by CapitalG,"
+ },
+ {
+  "start": 10.338,
+  "end": 13.038,
+  "text": "more than doubling the 1.25 billion dollar"
+ },
+ {
+  "start": 13.038,
+  "end": 14.886,
+  "text": "valuation it had about a year ago."
+ },
+ {
+  "start": 15.53,
+  "end": 18.585,
+  "text": "It started in 2022 helping early LLMs"
+ },
+ {
+  "start": 18.585,
+  "end": 20.834,
+  "text": "search the web, call APIs,"
+ },
+ {
+  "start": 20.861,
+  "end": 22.143,
+  "text": "and query databases."
+ },
+ {
+  "start": 22.382,
+  "end": 24.76,
+  "text": "As frontier labs built those abilities in,"
+ },
+ {
+  "start": 24.976,
+  "end": 27.803,
+  "text": "LangChain pivoted to managing AI agents."
+ },
+ {
+  "start": 28.456,
+  "end": 30.32,
+  "text": "Its pitch for LangSmith is no lock-in"
+ },
+ {
+  "start": 30.32,
+  "end": 32.003,
+  "text": "to any model or cloud,"
+ },
+ {
+  "start": 32.206,
+  "end": 34.29,
+  "text": "and it claims 7,000 customers,"
+ },
+ {
+  "start": 34.364,
+  "end": 37.521,
+  "text": "including Nvidia, Toyota, and Salesforce."
+ },
+ {
+  "start": 38.166,
+  "end": 39.154,
+  "text": "In the agent era,"
+ },
+ {
+  "start": 39.287,
+  "end": 40.867,
+  "text": "the money is moving to tools that"
+ },
+ {
+  "start": 40.867,
+  "end": 42.385,
+  "text": "run and govern agents."
+ }
+]

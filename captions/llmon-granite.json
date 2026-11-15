@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.766,
+  "text": "JSON was built for parsers."
+ },
+ {
+  "start": 2.005,
+  "end": 4.525,
+  "text": "IBM thinks LLMs need their own format."
+ },
+ {
+  "start": 5.172,
+  "end": 8.058,
+  "text": "An LLM's context mixes system prompts,"
+ },
+ {
+  "start": 8.168,
+  "end": 10.078,
+  "text": "chat turns, tool results,"
+ },
+ {
+  "start": 10.078,
+  "end": 12.79,
+  "text": "and documents, often in formats like JSON"
+ },
+ {
+  "start": 12.79,
+  "end": 14.862,
+  "text": "that weren't designed for language models."
+ },
+ {
+  "start": 15.506,
+  "end": 17.971,
+  "text": "IBM says that missing structure makes small"
+ },
+ {
+  "start": 17.971,
+  "end": 20.259,
+  "text": "models brittle and opens the door to"
+ },
+ {
+  "start": 20.259,
+  "end": 23.404,
+  "text": "prompt injection. Its answer is LLMON,"
+ },
+ {
+  "start": 23.549,
+  "end": 26.072,
+  "text": "pronounced lemon, which tags each part using"
+ },
+ {
+  "start": 26.072,
+  "end": 27.661,
+  "text": "reserved special tokens."
+ },
+ {
+  "start": 28.312,
+  "end": 30.502,
+  "text": "IBM released two preview models,"
+ },
+ {
+  "start": 30.553,
+  "end": 33.772,
+  "text": "Granite 4.1 3B and 8B trained on"
+ },
+ {
+  "start": 33.772,
+  "end": 36.293,
+  "text": "LLMON, plus a toolkit on GitHub."
+ },
+ {
+  "start": 36.954,
+  "end": 38.546,
+  "text": "Better structure in the prompt could mean"
+ },
+ {
+  "start": 38.546,
+  "end": 40.677,
+  "text": "sturdier, safer small models."
+ }
+]

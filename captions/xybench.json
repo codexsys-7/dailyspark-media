@@ -1,0 +1,87 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.38,
+  "text": "What should an AI do when you"
+ },
+ {
+  "start": 1.38,
+  "end": 2.567,
+  "text": "ask the wrong question?"
+ },
+ {
+  "start": 3.216,
+  "end": 4.486,
+  "text": "That's the XY problem:"
+ },
+ {
+  "start": 4.749,
+  "end": 6.671,
+  "text": "you want X, assume approach Y will"
+ },
+ {
+  "start": 6.671,
+  "end": 8.236,
+  "text": "work, and ask about Y."
+ },
+ {
+  "start": 8.476,
+  "end": 10.079,
+  "text": "Like asking how to thicken frosting when"
+ },
+ {
+  "start": 10.079,
+  "end": 11.751,
+  "text": "your cupcakes are just too warm."
+ },
+ {
+  "start": 12.41,
+  "end": 16.337,
+  "text": "XYBench tests this with 8,115 real questions"
+ },
+ {
+  "start": 16.337,
+  "end": 18.905,
+  "text": "about programming, cooking, and home repair."
+ },
+ {
+  "start": 19.144,
+  "end": 20.85,
+  "text": "It won Best Resource Paper"
+ },
+ {
+  "start": 20.866,
+  "end": 22.867,
+  "text": "at EMNLP 2026."
+ },
+ {
+  "start": 23.524,
+  "end": 25.655,
+  "text": "The five models tested often helped,"
+ },
+ {
+  "start": 25.765,
+  "end": 27.817,
+  "text": "but stayed focused on the user's mistaken"
+ },
+ {
+  "start": 27.817,
+  "end": 30.022,
+  "text": "approach, and were less likely than humans"
+ },
+ {
+  "start": 30.022,
+  "end": 32.0,
+  "text": "to steer people toward the real fix."
+ },
+ {
+  "start": 32.646,
+  "end": 35.052,
+  "text": "A truly helpful assistant answers the problem"
+ },
+ {
+  "start": 35.052,
+  "end": 36.016,
+  "text": "behind the question."
+ }
+]

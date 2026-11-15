@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.769,
+  "text": "The engine behind a lot of local"
+ },
+ {
+  "start": 1.769,
+  "end": 3.853,
+  "text": "AI just hit version one point oh."
+ },
+ {
+  "start": 4.512,
+  "end": 7.779,
+  "text": "llama.cpp runs large language models on almost"
+ },
+ {
+  "start": 7.779,
+  "end": 10.806,
+  "text": "any hardware, from laptops to enterprise servers,"
+ },
+ {
+  "start": 11.022,
+  "end": 13.215,
+  "text": "using quantization and portable C"
+ },
+ {
+  "start": 13.215,
+  "end": 14.473,
+  "text": "and C++ code."
+ },
+ {
+  "start": 15.122,
+  "end": 16.664,
+  "text": "After three and a half years,"
+ },
+ {
+  "start": 16.691,
+  "end": 19.235,
+  "text": "llama.cpp and its tensor library,"
+ },
+ {
+  "start": 19.356,
+  "end": 23.283,
+  "text": "ggml, are now version 1.0.0. From here"
+ },
+ {
+  "start": 23.283,
+  "end": 25.335,
+  "text": "on, breaking API changes mean a"
+ },
+ {
+  "start": 25.335,
+  "end": 26.522,
+  "text": "major version bump."
+ },
+ {
+  "start": 27.16,
+  "end": 29.743,
+  "text": "It already supports more than 150 model"
+ },
+ {
+  "start": 29.743,
+  "end": 32.278,
+  "text": "architecture variants, plus all mainstream"
+ },
+ {
+  "start": 32.278,
+  "end": 34.221,
+  "text": "speculative decoding methods."
+ },
+ {
+  "start": 34.89,
+  "end": 37.587,
+  "text": "Stable APIs mean developers can build private,"
+ },
+ {
+  "start": 37.732,
+  "end": 39.604,
+  "text": "on-device AI with confidence."
+ }
+]
