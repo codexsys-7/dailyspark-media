@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "gen-xybench",
+      "title": "XYBench: Helping with the problem behind the question",
+      "topic": "Research",
+      "summary": "That's the XY problem: you want X, assume approach Y will work, and ask about Y. Like asking how to thicken frosting when your cupcakes are just too warm. A truly helpful assistant answers the problem behind the question.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/xybench.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/xybench.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "Hugging Face Blog (Ai2)",
+        "url": "https://huggingface.co/blog/allenai/xybench"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/xybench.json"
+    },
+    {
+      "id": "gen-llama-cpp-v1",
+      "title": "llama.cpp v1.0.0: a stronger foundation for local AI",
+      "topic": "Tools",
+      "summary": "llama.cpp runs large language models on almost any hardware, from laptops to enterprise servers, using quantization and portable C and C++ code. Stable APIs mean developers can build private, on-device AI with confidence.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/llama-cpp-v1.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/llama-cpp-v1.jpg",
+      "durationSec": 45,
+      "source": {
+        "name": "Hugging Face Blog (ggml-org)",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/llama-cpp-v1.json"
+    },
+    {
+      "id": "gen-langchain-3b-valuation",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "topic": "Agents",
+      "summary": "LangChain raised a 300 million dollar Series C led by CapitalG, more than doubling the 1.25 billion dollar valuation it had about a year ago. In the agent era, the money is moving to tools that run and govern agents.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/langchain-3b-valuation.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/langchain-3b-valuation.jpg",
+      "durationSec": 48,
+      "source": {
+        "name": "TechCrunch (Julie Bort)",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/langchain-3b-valuation.json"
+    },
+    {
+      "id": "gen-faa-smart-ai",
+      "title": "FAA expands AI advice to manage air traffic congestion across US airspace",
+      "topic": "Applied AI",
+      "summary": "The FAA's 875 million dollar SMART system combines weather, flight paths, traffic flow, and staffing data to recommend routes and arrival order. AI as an advisor, with humans making the final call.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/faa-smart-ai.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/faa-smart-ai.jpg",
+      "durationSec": 44,
+      "source": {
+        "name": "Ars Technica (Jeremy Hsu)",
+        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/faa-smart-ai.json"
+    },
+    {
+      "id": "gen-antigravity-teamwork",
+      "title": "Advancing science & engineering with Antigravity's /teamwork",
+      "topic": "Agents",
+      "summary": "Google Research says /teamwork, a multi-agent system in Antigravity, worked with human experts on open problems in math, chemistry, systems software, and ML engineering. Lesson for agent builders: parallel attempts plus strict verification beats one long try.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/antigravity-teamwork.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/antigravity-teamwork.jpg",
+      "durationSec": 47,
+      "source": {
+        "name": "Google Research Blog",
+        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/antigravity-teamwork.json"
+    },
+    {
+      "id": "gen-llmon-granite",
+      "title": "LLMON: An LLM-native markup language, now in Granite 4.1",
+      "topic": "LLMs",
+      "summary": "An LLM's context mixes system prompts, chat turns, tool results, and documents, often in formats like JSON that weren't designed for language models. Better structure in the prompt could mean sturdier, safer small models.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/llmon-granite.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/llmon-granite.jpg",
+      "durationSec": 46,
+      "source": {
+        "name": "Hugging Face Blog (IBM Granite)",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/llmon-granite.json"
+    },
+    {
+      "id": "gen-goal-encoding-llms",
+      "title": "Goal Encoding in LLMs",
+      "topic": "Research",
+      "summary": "In a coding task, researchers found the model's next sub-goal encoded in a small set of attention heads, and could even decode it into plain English. Interpretability is starting to reveal how models plan their next step.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/goal-encoding-llms.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/goal-encoding-llms.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "arXiv (cs.AI), Sen Sharma et al.",
+        "url": "https://arxiv.org/abs/2611.17297"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/goal-encoding-llms.json"
+    },
+    {
+      "id": "gen-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "topic": "LLMs",
+      "summary": "Meet Gemini 4 Hydrogen. While Carbon and Argon handle deep reasoning, Hydrogen is built for fast execution: writing code, running tests, and agent workflows. The trend: big models plan, fast models do the work.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/gemini-4-hydrogen.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/gemini-4-hydrogen.jpg",
+      "durationSec": 45,
+      "source": {
+        "name": "Google DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/gemini-4-hydrogen.json"
+    },
+    {
+      "id": "gen-divr-diffusion-regenerate",
+      "title": "Learning When Diffusion Language Models Should Regenerate",
+      "topic": "Research",
+      "summary": "Unlike left-to-right chatbots, diffusion models can remask and revise words. The researchers found token confidence doesn't reliably reveal errors, but hidden states do. Knowing when to revise can matter as much as generating well.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/divr-diffusion-regenerate.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/divr-diffusion-regenerate.jpg",
+      "durationSec": 44,
+      "source": {
+        "name": "arXiv (cs.CL), Oh et al.",
+        "url": "https://arxiv.org/abs/2611.17320"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/divr-diffusion-regenerate.json"
+    },
+    {
+      "id": "gen-cram-energy-reasoning",
+      "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "topic": "Research",
+      "summary": "Looped models are a popular way to teach AI to reason through puzzles, but they can be unstable, slow to train, and heavy on compute. Energy-based methods look promising, and easy puzzles may be weak reasoning benchmarks.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/cram-energy-reasoning.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/cram-energy-reasoning.jpg",
+      "durationSec": 46,
+      "source": {
+        "name": "arXiv (cs.AI) — Hoover, Blayney, Whittington",
+        "url": "https://arxiv.org/abs/2611.17309"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/cram-energy-reasoning.json"
+    },
+    {
+      "id": "gen-chip-security-tracking",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling",
+      "topic": "Hardware",
+      "summary": "The Chip Security Act would require geotracking to verify the location of advanced AI chips, to stop them from being smuggled to China. AI chips are now treated as strategic assets, and location tracking is on the table.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/chip-security-tracking.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/chip-security-tracking.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "MIT Technology Review (James O'Donnell)",
+        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/chip-security-tracking.json"
+    }
+  ]
+}
