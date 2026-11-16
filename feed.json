@@ -2,6 +2,51 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-apple-health-ai-study",
+      "title": "Apple's new study looks to improve AI health tools",
+      "topic": "Applied AI",
+      "summary": "The Apple Health AI Usage Study runs with OpenEvidence, a clinical AI platform that answers from sources like the New England Journal of Medicine. Before trusting AI with health, someone has to measure whether it helps.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/apple-health-ai-study.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/apple-health-ai-study.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Verge (Andrew Liszewski)",
+        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+      },
+      "date": "2026-11-16",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/apple-health-ai-study.json"
+    },
+    {
+      "id": "gen-congress-ai-chip-exports",
+      "title": "Congress wants to tighten export rules on AI chips",
+      "topic": "Hardware",
+      "summary": "After the scandal around former Nvidia CEO Jensen Huang, lawmakers from both parties are backing measures to further restrict AI chip exports. AI chips are now a central piece of national security policy.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/congress-ai-chip-exports.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/congress-ai-chip-exports.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "The Verge (Terrence O'Brien)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      },
+      "date": "2026-11-15",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/congress-ai-chip-exports.json"
+    },
+    {
+      "id": "gen-bharat-semi-ai-sensors",
+      "title": "Indian chip startup Bharat Semi lands $24M for AI image sensors",
+      "topic": "Hardware",
+      "summary": "Indian startup Bharat Semi raised a 24 million dollar seed round to build programmable image sensors that capture, process, and run AI on a single chip. AI is moving to the edge, all the way into the sensor.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/bharat-semi-ai-sensors.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/bharat-semi-ai-sensors.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "TechCrunch (Jagmeet Singh)",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      },
+      "date": "2026-11-15",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/bharat-semi-ai-sensors.json"
+    },
+    {
       "id": "gen-xybench",
       "title": "XYBench: Helping with the problem behind the question",
       "topic": "Research",
@@ -15,6 +60,36 @@
       },
       "date": "2026-11-13",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/xybench.json"
+    },
+    {
+      "id": "gen-simready-robot-pick-place",
+      "title": "Build a robot pick-and-place simulation with SimReady assets",
+      "topic": "Robotics",
+      "summary": "NVIDIA's walkthrough builds a pick-and-place task in Isaac Sim with a UR17G arm, a Robotiq gripper, and a beverage can. Good robot training starts with simulation assets that behave like the real thing.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/simready-robot-pick-place.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/simready-robot-pick-place.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "Hugging Face Blog (NVIDIA)",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/simready-robot-pick-place.json"
+    },
+    {
+      "id": "gen-nvidia-ai-care-teams",
+      "title": "How AI is helping care teams get patients the right care, sooner",
+      "topic": "Applied AI",
+      "summary": "Hospitals hold decades of patient history in free text: physician notes, reports, and discharge summaries. The best clinical AI hands time back to care teams, not decisions.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-ai-care-teams.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-ai-care-teams.jpg",
+      "durationSec": 39,
+      "source": {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/nvidia-ai-care-teams.json"
     },
     {
       "id": "gen-llama-cpp-v1",
@@ -62,6 +137,36 @@
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/faa-smart-ai.json"
     },
     {
+      "id": "gen-china-models-blackwell",
+      "title": "Export-banned Nvidia chips behind China's most powerful AI models, research claims",
+      "topic": "Hardware",
+      "summary": "Will DePue of the nonprofit Unemployment Labs analyzed open-weight models from DeepSeek, Moonshot AI, MiniMax, and Ant Group. Model weights may become evidence in the chip export fight.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/china-models-blackwell.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/china-models-blackwell.jpg",
+      "durationSec": 46,
+      "source": {
+        "name": "TechCrunch (Tim Fernholz)",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/china-models-blackwell.json"
+    },
+    {
+      "id": "gen-chatgpt-wallet",
+      "title": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+      "topic": "Agents",
+      "summary": "ChatGPT Wallet is rolling out to US ChatGPT Pro subscribers. Add a card, and your Dots agents can make purchases from your prompts. Agent payments are arriving, with humans still signing off.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/chatgpt-wallet.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/chatgpt-wallet.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Verge (Stevie Bonifield)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/chatgpt-wallet.json"
+    },
+    {
       "id": "gen-antigravity-teamwork",
       "title": "Advancing science & engineering with Antigravity's /teamwork",
       "topic": "Agents",
@@ -75,6 +180,81 @@
       },
       "date": "2026-11-13",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/antigravity-teamwork.json"
+    },
+    {
+      "id": "gen-amazon-world-product-graph",
+      "title": "Amazon has a plan to index the world's online shopping data",
+      "topic": "Agents",
+      "summary": "According to Reuters, the project is called the World Product Graph. The goal is to keep shoppers, and AI shopping agents, from doing research elsewhere. When agents shop for us, whoever owns the product data wins.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/amazon-world-product-graph.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/amazon-world-product-graph.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Verge (Stevie Bonifield)",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/amazon-world-product-graph.json"
+    },
+    {
+      "id": "gen-unbundling-vision-encoding",
+      "title": "Unbundling multimodal vision encoding",
+      "topic": "LLMs",
+      "summary": "Vision encoders bundle three choices: a visual prior from pretraining, dedicated vision capacity, and placing it before the language backbone. Give models dedicated room to see, and where it sits matters less.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/unbundling-vision-encoding.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/unbundling-vision-encoding.jpg",
+      "durationSec": 39,
+      "source": {
+        "name": "arXiv (cs.LG), Brown et al.",
+        "url": "https://arxiv.org/abs/2611.17334"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/unbundling-vision-encoding.json"
+    },
+    {
+      "id": "gen-synthesis-smuggling",
+      "title": "Synthesis Smuggling: hiding inferred personal attributes in LLM outputs",
+      "topic": "Research",
+      "summary": "This paper describes a threat: a malicious model infers sensitive details about you from normal conversations. Text you share from an AI could carry more than you think.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/synthesis-smuggling.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/synthesis-smuggling.jpg",
+      "durationSec": 35,
+      "source": {
+        "name": "arXiv (cs.AI), Galada et al.",
+        "url": "https://arxiv.org/abs/2611.17280"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/synthesis-smuggling.json"
+    },
+    {
+      "id": "gen-poor-actor-good-teacher",
+      "title": "Actor, judge, or teacher? Decision models in long-horizon agents",
+      "topic": "Research",
+      "summary": "Researchers tested models as actors that choose actions, and as judges that review a finished episode. Hindsight makes judging easier than acting.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/poor-actor-good-teacher.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/poor-actor-good-teacher.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "arXiv (cs.CL), Liu et al.",
+        "url": "https://arxiv.org/abs/2611.17167"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/poor-actor-good-teacher.json"
+    },
+    {
+      "id": "gen-metal-sandbox-apple-silicon",
+      "title": "Metal Sandbox: scheduling GPU coding agents on Apple silicon",
+      "topic": "Tools",
+      "summary": "Agents that write Apple Metal kernels alternate between model calls, dev commands, and GPU runs, so GPU capacity sits unused. Smarter scheduling can squeeze far more from the hardware you already have.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/metal-sandbox-apple-silicon.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/metal-sandbox-apple-silicon.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "arXiv (cs.AI), Wang et al.",
+        "url": "https://arxiv.org/abs/2611.17294"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/metal-sandbox-apple-silicon.json"
     },
     {
       "id": "gen-llmon-granite",
@@ -92,6 +272,51 @@
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/llmon-granite.json"
     },
     {
+      "id": "gen-llm-quantum-circuits",
+      "title": "Programming quantum circuit parameters with large language models",
+      "topic": "Research",
+      "summary": "Researchers asked a frozen, general-purpose LLM to write all the parameters for variational quantum circuits from text descriptions. LLMs help most when problems have structure, and answers can be verified.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/llm-quantum-circuits.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/llm-quantum-circuits.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "arXiv (cs.LG), de Souza Farias et al.",
+        "url": "https://arxiv.org/abs/2611.17246"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/llm-quantum-circuits.json"
+    },
+    {
+      "id": "gen-livegeo-geographic-agents",
+      "title": "LiveGeo: benchmarking geographic agents in evolving worlds",
+      "topic": "Agents",
+      "summary": "Most benchmarks test agents on fixed snapshots. GeoWorld is a geographic environment, grounded in real-world structure, where conditions keep evolving over time. Real-world agents need to notice when their facts go stale.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/livegeo-geographic-agents.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/livegeo-geographic-agents.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "arXiv (cs.AI), Zhou et al.",
+        "url": "https://arxiv.org/abs/2611.17267"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/livegeo-geographic-agents.json"
+    },
+    {
+      "id": "gen-lazyweights-edge-llms",
+      "title": "LazyWeights: decode-on-demand edge LLMs",
+      "topic": "Hardware",
+      "summary": "Quantized formats spend the same bits on every weight code, even though some codes are far more common than others. Compression in hardware could bring bigger models to small devices.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/lazyweights-edge-llms.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/lazyweights-edge-llms.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "arXiv (cs.CL), Sanyal et al.",
+        "url": "https://arxiv.org/abs/2611.17108"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/lazyweights-edge-llms.json"
+    },
+    {
       "id": "gen-goal-encoding-llms",
       "title": "Goal Encoding in LLMs",
       "topic": "Research",
@@ -105,6 +330,21 @@
       },
       "date": "2026-11-12",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/goal-encoding-llms.json"
+    },
+    {
+      "id": "gen-gemini-smartglasses",
+      "title": "Gemini-powered smartglasses debut starting at $395",
+      "topic": "Hardware",
+      "summary": "The first Gemini glasses come from Warby Parker, starting at 395 dollars, and Gentle Monster, from 449. Samsung builds the hardware and Google handles the software. Without a screen, these glasses only work if you can trust the AI.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/gemini-smartglasses.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/gemini-smartglasses.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "Ars Technica (Ryan Whitwam)",
+        "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/gemini-smartglasses.json"
     },
     {
       "id": "gen-gemini-4-hydrogen",
@@ -152,6 +392,21 @@
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/cram-energy-reasoning.json"
     },
     {
+      "id": "gen-coremem-coding-memory",
+      "title": "CoReMem: Cost-internalizing memory for successive coding tasks",
+      "topic": "Agents",
+      "summary": "Coding agents work through a series of tasks on the same repository, writing memory before they know what's next. But memory costs effort to write and read. Good agent memory is small, specific, and proven useful.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/coremem-coding-memory.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/coremem-coding-memory.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "arXiv (cs.AI), Li et al.",
+        "url": "https://arxiv.org/abs/2611.17316"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/coremem-coding-memory.json"
+    },
+    {
       "id": "gen-chip-security-tracking",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling",
       "topic": "Hardware",
@@ -165,6 +420,51 @@
       },
       "date": "2026-11-12",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/chip-security-tracking.json"
+    },
+    {
+      "id": "gen-caplite-prompt-injection",
+      "title": "CapLite: prompt-injection defense for small language model agents",
+      "topic": "Agents",
+      "summary": "Several prompt-injection defenses ask the agent's own model to write a security policy. Across 15 open models, mostly 1.7 to 12 billion parameters, those policies let attacks through. For small agents, security should come from code, not the model.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/caplite-prompt-injection.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/caplite-prompt-injection.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "arXiv (cs.CL), Xu et al.",
+        "url": "https://arxiv.org/abs/2611.17115"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/caplite-prompt-injection.json"
+    },
+    {
+      "id": "gen-ballad-llm-routing",
+      "title": "Ballad: bandit-based LLM routing for automated heuristic discovery",
+      "topic": "Research",
+      "summary": "LLMs can now discover heuristics for hard optimization problems by repeatedly refining solutions. Mixing models wisely can beat paying for the biggest one.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/ballad-llm-routing.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/ballad-llm-routing.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "arXiv (cs.LG), Verma et al.",
+        "url": "https://arxiv.org/abs/2611.17241"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/ballad-llm-routing.json"
+    },
+    {
+      "id": "gen-agentssl-unlabeled-data",
+      "title": "AgentSSL: Can MLE agents leverage unlabeled data?",
+      "topic": "Research",
+      "summary": "Real projects often have little labeled data but lots of unlabeled data. This paper tests ML engineering agents in that setting. Agents can generate good ideas. Choosing the right one is harder.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/agentssl-unlabeled-data.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/agentssl-unlabeled-data.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "arXiv (cs.AI), Lin et al.",
+        "url": "https://arxiv.org/abs/2611.17323"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/agentssl-unlabeled-data.json"
     }
   ]
 }
