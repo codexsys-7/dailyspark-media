@@ -137,6 +137,21 @@
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/faa-smart-ai.json"
     },
     {
+      "id": "gen-claude-duet-hands-on",
+      "title": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "topic": "Agents",
+      "summary": "Claude Duet is Anthropic's agent for professionals and small business owners, in research preview for Pro, Max, and Ultra subscribers in the US. Agents get useful with lots of context, and that's also the tradeoff.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-duet-hands-on.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-duet-hands-on.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Verge (Allison Johnson)",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+      },
+      "date": "2026-11-13",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/claude-duet-hands-on.json"
+    },
+    {
       "id": "gen-china-models-blackwell",
       "title": "Export-banned Nvidia chips behind China's most powerful AI models, research claims",
       "topic": "Hardware",
@@ -330,6 +345,21 @@
       },
       "date": "2026-11-12",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/goal-encoding-llms.json"
+    },
+    {
+      "id": "gen-github-agent-skills",
+      "title": "Build once, run on any agent: a practical guide to agent skills",
+      "topic": "Tools",
+      "summary": "An agent skill is a versioned folder built around a SKILL.md file that says when and how to do a repeatable task. Write your know-how down once, and every agent can reuse it.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/github-agent-skills.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/github-agent-skills.jpg",
+      "durationSec": 37,
+      "source": {
+        "name": "GitHub Blog (Andrea Griffiths)",
+        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/"
+      },
+      "date": "2026-11-12",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/github-agent-skills.json"
     },
     {
       "id": "gen-gemini-smartglasses",
