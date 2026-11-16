@@ -1,0 +1,87 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.512,
+  "text": "Can AI agents build ML pipelines when"
+ },
+ {
+  "start": 2.512,
+  "end": 3.617,
+  "text": "labels are scarce?"
+ },
+ {
+  "start": 4.26,
+  "end": 6.545,
+  "text": "Real projects often have little labeled data"
+ },
+ {
+  "start": 6.583,
+  "end": 8.255,
+  "text": "but lots of unlabeled data."
+ },
+ {
+  "start": 8.506,
+  "end": 10.664,
+  "text": "This paper tests ML engineering agents"
+ },
+ {
+  "start": 10.664,
+  "end": 11.45,
+  "text": "in that setting."
+ },
+ {
+  "start": 12.098,
+  "end": 15.527,
+  "text": "The agents wrote code combining semi-supervised techniques,"
+ },
+ {
+  "start": 15.624,
+  "end": 18.525,
+  "text": "beating the strongest human-engineered baselines in 8"
+ },
+ {
+  "start": 18.525,
+  "end": 20.082,
+  "text": "of 12 settings, by up"
+ },
+ {
+  "start": 20.082,
+  "end": 21.788,
+  "text": "to 21.8 percent."
+ },
+ {
+  "start": 22.444,
+  "end": 24.469,
+  "text": "The catch: picking the best program."
+ },
+ {
+  "start": 24.708,
+  "end": 27.279,
+  "text": "Using the agent's own feedback metric cost"
+ },
+ {
+  "start": 27.279,
+  "end": 29.614,
+  "text": "up to 47 percent, so the authors"
+ },
+ {
+  "start": 29.614,
+  "end": 32.656,
+  "text": "built a benchmark of nearly 17,000 programs"
+ },
+ {
+  "start": 32.656,
+  "end": 33.42,
+  "text": "to study it."
+ },
+ {
+  "start": 34.051,
+  "end": 35.781,
+  "text": "Agents can generate good ideas."
+ },
+ {
+  "start": 36.02,
+  "end": 37.55,
+  "text": "Choosing the right one is harder."
+ }
+]

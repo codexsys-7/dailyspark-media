@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.698,
+  "text": "What should a coding agent remember for"
+ },
+ {
+  "start": 1.698,
+  "end": 3.299,
+  "text": "a task it hasn't seen yet?"
+ },
+ {
+  "start": 3.948,
+  "end": 5.694,
+  "text": "Coding agents work through a series of"
+ },
+ {
+  "start": 5.694,
+  "end": 7.636,
+  "text": "tasks on the same repository,"
+ },
+ {
+  "start": 7.911,
+  "end": 10.148,
+  "text": "writing memory before they know what's next."
+ },
+ {
+  "start": 10.399,
+  "end": 11.779,
+  "text": "But memory costs effort to"
+ },
+ {
+  "start": 11.779,
+  "end": 12.884,
+  "text": "write and read."
+ },
+ {
+  "start": 13.538,
+  "end": 15.956,
+  "text": "CoReMem measures what each piece of memory"
+ },
+ {
+  "start": 15.956,
+  "end": 17.922,
+  "text": "is actually worth on the next task,"
+ },
+ {
+  "start": 18.067,
+  "end": 20.225,
+  "text": "and keeps a compact memory of repository"
+ },
+ {
+  "start": 20.225,
+  "end": 22.544,
+  "text": "locations and executable checks."
+ },
+ {
+  "start": 23.2,
+  "end": 26.49,
+  "text": "On ChainSWE, a 27 billion parameter agent's"
+ },
+ {
+  "start": 26.49,
+  "end": 28.542,
+  "text": "resolve rate rose from 21 to"
+ },
+ {
+  "start": 28.542,
+  "end": 32.36,
+  "text": "25.7 percent, with 17 percent fewer steps."
+ },
+ {
+  "start": 33.018,
+  "end": 34.63,
+  "text": "Good agent memory is small,"
+ },
+ {
+  "start": 34.752,
+  "end": 36.576,
+  "text": "specific, and proven useful."
+ }
+]

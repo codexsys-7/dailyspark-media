@@ -1,0 +1,72 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.474,
+  "text": "Can an AI that acts poorly"
+ },
+ {
+  "start": 1.474,
+  "end": 2.379,
+  "text": "still teach well?"
+ },
+ {
+  "start": 3.036,
+  "end": 5.466,
+  "text": "Researchers tested models as actors that choose"
+ },
+ {
+  "start": 5.466,
+  "end": 7.718,
+  "text": "actions, and as judges that review"
+ },
+ {
+  "start": 7.718,
+  "end": 8.788,
+  "text": "a finished episode."
+ },
+ {
+  "start": 9.434,
+  "end": 11.793,
+  "text": "As actors, all six models got pulled"
+ },
+ {
+  "start": 11.793,
+  "end": 13.181,
+  "text": "toward an easier subgoal."
+ },
+ {
+  "start": 13.42,
+  "end": 15.445,
+  "text": "As judges seeing the whole trajectory,"
+ },
+ {
+  "start": 15.566,
+  "end": 17.886,
+  "text": "they correctly credited the steps that mattered."
+ },
+ {
+  "start": 18.544,
+  "end": 19.567,
+  "text": "Used as a teacher,"
+ },
+ {
+  "start": 19.617,
+  "end": 21.917,
+  "text": "one model raised a small policy's success"
+ },
+ {
+  "start": 21.917,
+  "end": 26.336,
+  "text": "from 72.8 to 82.9 percent on ALFWorld,"
+ },
+ {
+  "start": 26.528,
+  "end": 29.697,
+  "text": "and from 56.8 to 71.4 on WebShop."
+ },
+ {
+  "start": 30.354,
+  "end": 32.473,
+  "text": "Hindsight makes judging easier than acting."
+ }
+]

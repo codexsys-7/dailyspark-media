@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.506,
+  "text": "Years of patient notes,"
+ },
+ {
+  "start": 1.604,
+  "end": 2.626,
+  "text": "read in seconds."
+ },
+ {
+  "start": 2.877,
+  "end": 4.289,
+  "text": "With a doctor still in charge."
+ },
+ {
+  "start": 4.944,
+  "end": 7.538,
+  "text": "Hospitals hold decades of patient history in"
+ },
+ {
+  "start": 7.538,
+  "end": 9.587,
+  "text": "free text: physician notes,"
+ },
+ {
+  "start": 9.649,
+  "end": 11.722,
+  "text": "reports, and discharge summaries."
+ },
+ {
+  "start": 12.362,
+  "end": 15.016,
+  "text": "Dyania Health's Synapsis AI reasons across a"
+ },
+ {
+  "start": 15.016,
+  "end": 17.362,
+  "text": "patient's whole record and flags who needs"
+ },
+ {
+  "start": 17.362,
+  "end": 20.322,
+  "text": "attention and why, with every signal traceable"
+ },
+ {
+  "start": 20.322,
+  "end": 21.227,
+  "text": "to its source."
+ },
+ {
+  "start": 21.88,
+  "end": 24.295,
+  "text": "It runs inside the hospital's own firewall,"
+ },
+ {
+  "start": 24.404,
+  "end": 26.075,
+  "text": "so patient data never leaves."
+ },
+ {
+  "start": 26.314,
+  "end": 28.142,
+  "text": "Clinicians review the evidence and"
+ },
+ {
+  "start": 28.142,
+  "end": 29.412,
+  "text": "make every decision."
+ },
+ {
+  "start": 30.066,
+  "end": 32.083,
+  "text": "The best clinical AI hands time back"
+ },
+ {
+  "start": 32.083,
+  "end": 34.084,
+  "text": "to care teams, not decisions."
+ }
+]

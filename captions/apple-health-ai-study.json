@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.083,
+  "end": 2.123,
+  "text": "Apple wants up to 200,000 people to"
+ },
+ {
+  "start": 2.123,
+  "end": 3.794,
+  "text": "grade AI health answers."
+ },
+ {
+  "start": 4.464,
+  "end": 6.634,
+  "text": "The Apple Health AI Usage Study runs"
+ },
+ {
+  "start": 6.634,
+  "end": 9.676,
+  "text": "with OpenEvidence, a clinical AI platform that"
+ },
+ {
+  "start": 9.676,
+  "end": 11.658,
+  "text": "answers from sources like the New England"
+ },
+ {
+  "start": 11.658,
+  "end": 12.645,
+  "text": "Journal of Medicine."
+ },
+ {
+  "start": 13.31,
+  "end": 15.433,
+  "text": "Participants ask health questions in a new"
+ },
+ {
+  "start": 15.433,
+  "end": 17.544,
+  "text": "iOS app and rate each answer on"
+ },
+ {
+  "start": 17.544,
+  "end": 19.981,
+  "text": "accuracy, detail, and relevance."
+ },
+ {
+  "start": 20.221,
+  "end": 22.422,
+  "text": "Answers link to peer-reviewed sources."
+ },
+ {
+  "start": 23.08,
+  "end": 25.097,
+  "text": "You can share HealthKit data like sleep"
+ },
+ {
+  "start": 25.097,
+  "end": 27.44,
+  "text": "or lab results for more personal context."
+ },
+ {
+  "start": 27.679,
+  "end": 29.448,
+  "text": "Apple says the data won't be used"
+ },
+ {
+  "start": 29.448,
+  "end": 30.719,
+  "text": "to train AI models."
+ },
+ {
+  "start": 31.374,
+  "end": 32.998,
+  "text": "Before trusting AI with health,"
+ },
+ {
+  "start": 33.12,
+  "end": 35.003,
+  "text": "someone has to measure whether it helps."
+ }
+]

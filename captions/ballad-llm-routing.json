@@ -1,0 +1,67 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.877,
+  "text": "Is the biggest, priciest AI model always"
+ },
+ {
+  "start": 2.877,
+  "end": 3.912,
+  "text": "the best choice?"
+ },
+ {
+  "start": 4.572,
+  "end": 7.143,
+  "text": "LLMs can now discover heuristics for hard"
+ },
+ {
+  "start": 7.143,
+  "end": 10.713,
+  "text": "optimization problems by repeatedly refining solutions."
+ },
+ {
+  "start": 11.354,
+  "end": 13.627,
+  "text": "Across several NP-hard problems,"
+ },
+ {
+  "start": 13.666,
+  "end": 16.036,
+  "text": "the authors found no consistent advantage for"
+ },
+ {
+  "start": 16.036,
+  "end": 17.872,
+  "text": "larger, costlier models."
+ },
+ {
+  "start": 18.532,
+  "end": 21.61,
+  "text": "Their system, Ballad, uses a bandit algorithm"
+ },
+ {
+  "start": 21.61,
+  "end": 23.119,
+  "text": "to pick which model to call at"
+ },
+ {
+  "start": 23.119,
+  "end": 25.419,
+  "text": "each step, and the ensemble matches or"
+ },
+ {
+  "start": 25.419,
+  "end": 26.902,
+  "text": "beats any single model."
+ },
+ {
+  "start": 27.558,
+  "end": 29.728,
+  "text": "Mixing models wisely can beat paying for"
+ },
+ {
+  "start": 29.728,
+  "end": 30.55,
+  "text": "the biggest one."
+ }
+]

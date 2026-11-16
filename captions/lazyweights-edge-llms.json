@@ -1,0 +1,72 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.866,
+  "text": "On small devices, memory decides which AI"
+ },
+ {
+  "start": 2.866,
+  "end": 3.924,
+  "text": "models you can run."
+ },
+ {
+  "start": 4.572,
+  "end": 6.998,
+  "text": "Quantized formats spend the same bits on"
+ },
+ {
+  "start": 7.002,
+  "end": 9.195,
+  "text": "every weight code, even though some codes"
+ },
+ {
+  "start": 9.195,
+  "end": 10.913,
+  "text": "are far more common than others."
+ },
+ {
+  "start": 11.57,
+  "end": 14.801,
+  "text": "LazyWeights compresses those codes losslessly and decodes"
+ },
+ {
+  "start": 14.801,
+  "end": 17.098,
+  "text": "them on demand between memory and cache,"
+ },
+ {
+  "start": 17.254,
+  "end": 20.556,
+  "text": "so models get 5.7 to 31.4 percent"
+ },
+ {
+  "start": 20.556,
+  "end": 23.324,
+  "text": "smaller than the best llama.cpp formats."
+ },
+ {
+  "start": 23.968,
+  "end": 26.268,
+  "text": "A tiny decoder chip cut latency and"
+ },
+ {
+  "start": 26.268,
+  "end": 28.473,
+  "text": "energy per token by up to 36"
+ },
+ {
+  "start": 28.473,
+  "end": 30.734,
+  "text": "and 38 percent on an Orin board."
+ },
+ {
+  "start": 31.374,
+  "end": 33.674,
+  "text": "Compression in hardware could bring bigger models"
+ },
+ {
+  "start": 33.674,
+  "end": 34.85,
+  "text": "to small devices."
+ }
+]

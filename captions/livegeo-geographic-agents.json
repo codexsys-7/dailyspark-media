@@ -1,0 +1,72 @@
+[
+ {
+  "start": 0.106,
+  "end": 1.71,
+  "text": "The world changes while an agent is"
+ },
+ {
+  "start": 1.71,
+  "end": 3.228,
+  "text": "planning. Can it keep up?"
+ },
+ {
+  "start": 3.876,
+  "end": 6.656,
+  "text": "Most benchmarks test agents on fixed snapshots."
+ },
+ {
+  "start": 6.895,
+  "end": 9.439,
+  "text": "GeoWorld is a geographic environment,"
+ },
+ {
+  "start": 9.549,
+  "end": 11.338,
+  "text": "grounded in real-world structure,"
+ },
+ {
+  "start": 11.471,
+  "end": 13.944,
+  "text": "where conditions keep evolving over time."
+ },
+ {
+  "start": 14.594,
+  "end": 17.669,
+  "text": "In LiveGeo, agents must gather information,"
+ },
+ {
+  "start": 17.778,
+  "end": 20.063,
+  "text": "check whether earlier evidence still holds,"
+ },
+ {
+  "start": 20.149,
+  "end": 21.383,
+  "text": "and revise plans."
+ },
+ {
+  "start": 22.024,
+  "end": 24.171,
+  "text": "Even frontier models struggled with the static"
+ },
+ {
+  "start": 24.171,
+  "end": 26.942,
+  "text": "tasks, and strong static scores didn't guarantee"
+ },
+ {
+  "start": 26.942,
+  "end": 29.061,
+  "text": "reliability as things changed."
+ },
+ {
+  "start": 29.718,
+  "end": 31.617,
+  "text": "Real-world agents need to notice when their"
+ },
+ {
+  "start": 31.617,
+  "end": 32.746,
+  "text": "facts go stale."
+ }
+]

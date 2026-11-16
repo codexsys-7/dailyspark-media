@@ -1,0 +1,72 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.942,
+  "text": "Can a chatbot tune a quantum circuit?"
+ },
+ {
+  "start": 2.58,
+  "end": 4.346,
+  "text": "Researchers asked a frozen,"
+ },
+ {
+  "start": 4.42,
+  "end": 7.392,
+  "text": "general-purpose LLM to write all the parameters"
+ },
+ {
+  "start": 7.392,
+  "end": 10.254,
+  "text": "for variational quantum circuits from text descriptions."
+ },
+ {
+  "start": 10.898,
+  "end": 12.868,
+  "text": "On random problems, it did worse than"
+ },
+ {
+  "start": 12.868,
+  "end": 14.456,
+  "text": "standard Adam optimization."
+ },
+ {
+  "start": 14.707,
+  "end": 16.095,
+  "text": "But on structured problems,"
+ },
+ {
+  "start": 16.193,
+  "end": 18.313,
+  "text": "it found promising low-energy settings."
+ },
+ {
+  "start": 18.964,
+  "end": 21.461,
+  "text": "When asked to guess minimum energies directly,"
+ },
+ {
+  "start": 21.724,
+  "end": 24.303,
+  "text": "it sometimes gave physically impossible answers."
+ },
+ {
+  "start": 24.542,
+  "end": 26.228,
+  "text": "Generated parameters can at least"
+ },
+ {
+  "start": 26.228,
+  "end": 27.605,
+  "text": "be checked independently."
+ },
+ {
+  "start": 28.254,
+  "end": 30.822,
+  "text": "LLMs help most when problems have structure,"
+ },
+ {
+  "start": 31.014,
+  "end": 32.52,
+  "text": "and answers can be verified."
+ }
+]

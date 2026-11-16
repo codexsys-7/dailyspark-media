@@ -1,0 +1,77 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.524,
+  "text": "AI agents writing GPU code leave the"
+ },
+ {
+  "start": 2.524,
+  "end": 4.442,
+  "text": "GPU idle most of the time."
+ },
+ {
+  "start": 5.076,
+  "end": 7.423,
+  "text": "Agents that write Apple Metal kernels alternate"
+ },
+ {
+  "start": 7.423,
+  "end": 9.637,
+  "text": "between model calls, dev commands,"
+ },
+ {
+  "start": 9.723,
+  "end": 11.68,
+  "text": "and GPU runs, so GPU"
+ },
+ {
+  "start": 11.68,
+  "end": 13.481,
+  "text": "capacity sits unused."
+ },
+ {
+  "start": 14.138,
+  "end": 16.792,
+  "text": "Metal Sandbox gives each agent an isolated"
+ },
+ {
+  "start": 16.792,
+  "end": 19.996,
+  "text": "workspace and schedules commands across connected Macs,"
+ },
+ {
+  "start": 20.094,
+  "end": 22.319,
+  "text": "moving waiting jobs to free machines."
+ },
+ {
+  "start": 22.96,
+  "end": 24.938,
+  "text": "On four Mac mini M4s,"
+ },
+ {
+  "start": 24.977,
+  "end": 29.136,
+  "text": "command throughput rose 1.68 to 2.05 times,"
+ },
+ {
+  "start": 29.246,
+  "end": 31.507,
+  "text": "and batch time dropped 22 percent."
+ },
+ {
+  "start": 31.746,
+  "end": 32.721,
+  "text": "It's open source."
+ },
+ {
+  "start": 33.378,
+  "end": 35.583,
+  "text": "Smarter scheduling can squeeze far more from"
+ },
+ {
+  "start": 35.583,
+  "end": 37.03,
+  "text": "the hardware you already have."
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "start": 0.094,
+  "end": 1.722,
+  "text": "Can a model's weights reveal what chips"
+ },
+ {
+  "start": 1.722,
+  "end": 3.9,
+  "text": "trained it? One researcher says yes."
+ },
+ {
+  "start": 4.56,
+  "end": 6.848,
+  "text": "Will DePue of the nonprofit Unemployment Labs"
+ },
+ {
+  "start": 6.848,
+  "end": 9.297,
+  "text": "analyzed open-weight models from DeepSeek,"
+ },
+ {
+  "start": 9.442,
+  "end": 12.08,
+  "text": "Moonshot AI, MiniMax, and Ant Group."
+ },
+ {
+  "start": 12.746,
+  "end": 14.597,
+  "text": "He says the weights carry fingerprints of"
+ },
+ {
+  "start": 14.597,
+  "end": 17.109,
+  "text": "the training hardware, and found compelling evidence"
+ },
+ {
+  "start": 17.109,
+  "end": 19.774,
+  "text": "that models like Kimi K3 and DeepSeek"
+ },
+ {
+  "start": 19.774,
+  "end": 22.365,
+  "text": "V4 were trained on Blackwell GPUs,"
+ },
+ {
+  "start": 22.486,
+  "end": 24.228,
+  "text": "which are banned from export to China."
+ },
+ {
+  "start": 24.88,
+  "end": 26.956,
+  "text": "That doesn't prove they were trained entirely"
+ },
+ {
+  "start": 26.956,
+  "end": 29.255,
+  "text": "on Nvidia chips, or that export laws"
+ },
+ {
+  "start": 29.255,
+  "end": 32.192,
+  "text": "were broken. Epoch AI estimates two million"
+ },
+ {
+  "start": 32.192,
+  "end": 34.857,
+  "text": "advanced chips entered China through hidden routes"
+ },
+ {
+  "start": 34.857,
+  "end": 37.177,
+  "text": "in 2024 and 2025."
+ },
+ {
+  "start": 37.83,
+  "end": 39.823,
+  "text": "Model weights may become evidence in the"
+ },
+ {
+  "start": 39.823,
+  "end": 41.07,
+  "text": "chip export fight."
+ }
+]

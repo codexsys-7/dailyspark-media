@@ -1,0 +1,82 @@
+[
+ {
+  "start": 0.094,
+  "end": 2.261,
+  "text": "A robot can look perfect in simulation"
+ },
+ {
+  "start": 2.276,
+  "end": 3.44,
+  "text": "and still drop the can."
+ },
+ {
+  "start": 4.092,
+  "end": 6.781,
+  "text": "NVIDIA's walkthrough builds a pick-and-place task in"
+ },
+ {
+  "start": 6.781,
+  "end": 9.466,
+  "text": "Isaac Sim with a UR17G arm,"
+ },
+ {
+  "start": 9.599,
+  "end": 11.86,
+  "text": "a Robotiq gripper, and a beverage can."
+ },
+ {
+  "start": 12.53,
+  "end": 14.461,
+  "text": "The parts come from SimReady Central,"
+ },
+ {
+  "start": 14.653,
+  "end": 16.74,
+  "text": "an open library on Hugging Face of"
+ },
+ {
+  "start": 16.74,
+  "end": 20.109,
+  "text": "OpenUSD assets with simulation properties like collisions,"
+ },
+ {
+  "start": 20.301,
+  "end": 23.317,
+  "text": "mass, and joints already set and validated."
+ },
+ {
+  "start": 23.968,
+  "end": 25.274,
+  "text": "Before running the task,"
+ },
+ {
+  "start": 25.324,
+  "end": 27.114,
+  "text": "you test joints, movement,"
+ },
+ {
+  "start": 27.223,
+  "end": 29.157,
+  "text": "and contact, then watch whether the can"
+ },
+ {
+  "start": 29.157,
+  "end": 30.336,
+  "text": "stays in the gripper as"
+ },
+ {
+  "start": 30.336,
+  "end": 31.253,
+  "text": "the arm moves."
+ },
+ {
+  "start": 31.902,
+  "end": 34.52,
+  "text": "Good robot training starts with simulation assets"
+ },
+ {
+  "start": 34.52,
+  "end": 36.097,
+  "text": "that behave like the real thing."
+ }
+]
