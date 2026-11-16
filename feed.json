@@ -2,21 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "gen-apple-health-ai-study",
-      "title": "Apple's new study looks to improve AI health tools",
-      "topic": "Applied AI",
-      "summary": "The Apple Health AI Usage Study runs with OpenEvidence, a clinical AI platform that answers from sources like the New England Journal of Medicine. Before trusting AI with health, someone has to measure whether it helps.",
-      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/apple-health-ai-study.mp4",
-      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/apple-health-ai-study.jpg",
-      "durationSec": 40,
-      "source": {
-        "name": "The Verge (Andrew Liszewski)",
-        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
-      },
-      "date": "2026-11-16",
-      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/apple-health-ai-study.json"
-    },
-    {
       "id": "gen-congress-ai-chip-exports",
       "title": "Congress wants to tighten export rules on AI chips",
       "topic": "Hardware",
@@ -45,6 +30,21 @@
       },
       "date": "2026-11-15",
       "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/bharat-semi-ai-sensors.json"
+    },
+    {
+      "id": "gen-apple-health-ai-study",
+      "title": "Apple's new study looks to improve AI health tools",
+      "topic": "Applied AI",
+      "summary": "The Apple Health AI Usage Study runs with OpenEvidence, a clinical AI platform that answers from sources like the New England Journal of Medicine. Before trusting AI with health, someone has to measure whether it helps.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/apple-health-ai-study.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/apple-health-ai-study.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Verge (Andrew Liszewski)",
+        "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+      },
+      "date": "2026-11-15",
+      "captionsUrl": "https://codexsys-7.github.io/dailyspark-media/captions/apple-health-ai-study.json"
     },
     {
       "id": "gen-xybench",
