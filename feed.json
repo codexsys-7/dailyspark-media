@@ -2,6 +2,141 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-us-ai-chip-remote-access-rule",
+      "title": "US closes the remote-compute route for AI chips",
+      "topic": "AI Policy",
+      "summary": "On Monday, the Trump administration moved to roll out new export controls on remote access to AI compute. Remote access was the workaround. This rule goes straight at it.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/us-ai-chip-remote-access-rule.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/us-ai-chip-remote-access-rule.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-nvidia-dgx-spark-developer-kit-turns-a-desk-into",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "topic": "AI Compute",
+      "summary": "At SC26, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. A desk cluster could replace queues for some jobs.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-dgx-spark-developer-kit-turns-a-desk-into.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-dgx-spark-developer-kit-turns-a-desk-into.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-new-ask-maps-features-to-help-with-holiday-trave",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "topic": "AI Maps",
+      "summary": "You can build detailed itineraries with real-time route details and numbered map pins for each stop. Maps gets more agentic for holiday travel and errands.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/new-ask-maps-features-to-help-with-holiday-trave.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/new-ask-maps-features-to-help-with-holiday-trave.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "Google AI (The Keyword)",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-loraweaver-directional-adapter-routing-in-lora-r",
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "topic": "AI Fine-Tuning",
+      "summary": "Large language models are expensive to update through full retraining. It outperforms training-free baselines and approaches a trained retrieval encoder.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/loraweaver-directional-adapter-routing-in-lora-r.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/loraweaver-directional-adapter-routing-in-lora-r.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.17340"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-fbi-artex-ai-hacking-tool",
+      "title": "FBI: AI hacking tool breaks in under three hours",
+      "topic": "AI Security",
+      "summary": "The FBI warns hackers are using Artex, an open-source AI penetration-testing tool, to run autonomous attacks. The doors it used were basic: missing multi-factor logins, and old passwords nobody revoked.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/fbi-artex-ai-hacking-tool.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/fbi-artex-ai-hacking-tool.jpg",
+      "durationSec": 44,
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-cybersecurity-ai-startup-corma-reaches-1b-valuat",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "topic": "AI Cybersecurity",
+      "summary": "It raised a $125 million Series A round led by NEA. A young AI security market, but a very active one.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/cybersecurity-ai-startup-corma-reaches-1b-valuat.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/cybersecurity-ai-startup-corma-reaches-1b-valuat.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-creating-steering-vectors-via-input-optimisation",
+      "title": "Creating Steering Vectors via Input Optimisation",
+      "topic": "AI Safety",
+      "summary": "ActGCG modifies Greedy Coordinate Gradient to optimize a suffix toward target activations. Input can approximate steering, but the loss depends on the concept.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/creating-steering-vectors-via-input-optimisation.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/creating-steering-vectors-via-input-optimisation.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "arXiv cs.CL",
+        "url": "https://arxiv.org/abs/2611.17481"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-benchmarks-don-t-talk-back-learning-through-self",
+      "title": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+      "topic": "AI Research",
+      "summary": "Benchmarks usually test a model alone. But deployment is messier: answers get contested, and correct ones can be dropped. A new training loop targets how models handle opposition.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/benchmarks-don-t-talk-back-learning-through-self.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/benchmarks-don-t-talk-back-learning-through-self.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "arXiv cs.CL",
+        "url": "https://arxiv.org/abs/2611.17563"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-ai-data-centers-power",
+      "title": "US AI data centers now out-burn most countries",
+      "topic": "AI & Energy",
+      "summary": "Harvard-led researchers used satellite images to find 403 hyperscale data centers across the U.S. Same computers, very different footprint.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/ai-data-centers-power.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/ai-data-centers-power.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true
+    },
+    {
       "id": "gen-congress-ai-chip-exports",
       "title": "Congress wants to tighten export rules on AI chips",
       "topic": "Hardware",
