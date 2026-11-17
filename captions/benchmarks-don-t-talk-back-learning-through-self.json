@@ -1,0 +1,212 @@
+[
+ {
+  "start": 0.967,
+  "end": 1.75,
+  "text": "A model can answer"
+ },
+ {
+  "start": 1.75,
+  "end": 3.011,
+  "text": "well and still fold"
+ },
+ {
+  "start": 3.011,
+  "end": 3.533,
+  "text": "under wrong"
+ },
+ {
+  "start": 3.533,
+  "end": 4.43,
+  "text": "counter-reasoning."
+ },
+ {
+  "start": 4.912,
+  "end": 5.836,
+  "text": "Benchmarks usually"
+ },
+ {
+  "start": 5.836,
+  "end": 7.168,
+  "text": "test a model alone."
+ },
+ {
+  "start": 7.238,
+  "end": 8.129,
+  "text": "But deployment is"
+ },
+ {
+  "start": 8.129,
+  "end": 8.994,
+  "text": "messier:"
+ },
+ {
+  "start": 9.075,
+  "end": 9.586,
+  "text": "answers get"
+ },
+ {
+  "start": 9.586,
+  "end": 10.368,
+  "text": "contested,"
+ },
+ {
+  "start": 10.368,
+  "end": 11.173,
+  "text": "and correct ones can"
+ },
+ {
+  "start": 11.173,
+  "end": 11.962,
+  "text": "be dropped."
+ },
+ {
+  "start": 12.438,
+  "end": 13.275,
+  "text": "The paper calls this"
+ },
+ {
+  "start": 13.275,
+  "end": 13.807,
+  "text": "dialectical"
+ },
+ {
+  "start": 13.807,
+  "end": 14.673,
+  "text": "competence."
+ },
+ {
+  "start": 14.731,
+  "end": 15.47,
+  "text": "It is separate from"
+ },
+ {
+  "start": 15.47,
+  "end": 16.133,
+  "text": "first-answer"
+ },
+ {
+  "start": 16.133,
+  "end": 16.894,
+  "text": "accuracy,"
+ },
+ {
+  "start": 16.894,
+  "end": 17.905,
+  "text": "and accuracy training"
+ },
+ {
+  "start": 17.905,
+  "end": 18.731,
+  "text": "alone can drift"
+ },
+ {
+  "start": 18.731,
+  "end": 19.477,
+  "text": "against it."
+ },
+ {
+  "start": 19.964,
+  "end": 21.018,
+  "text": "The proposed fix is"
+ },
+ {
+  "start": 21.018,
+  "end": 22.122,
+  "text": "Self-Disagreement."
+ },
+ {
+  "start": 22.192,
+  "end": 22.996,
+  "text": "One model states a"
+ },
+ {
+  "start": 22.996,
+  "end": 23.703,
+  "text": "position,"
+ },
+ {
+  "start": 23.703,
+  "end": 24.203,
+  "text": "generates the"
+ },
+ {
+  "start": 24.203,
+  "end": 25.007,
+  "text": "strongest case"
+ },
+ {
+  "start": 25.007,
+  "end": 25.736,
+  "text": "against it,"
+ },
+ {
+  "start": 25.736,
+  "end": 26.496,
+  "text": "then rules on that"
+ },
+ {
+  "start": 26.496,
+  "end": 27.231,
+  "text": "case."
+ },
+ {
+  "start": 27.695,
+  "end": 28.304,
+  "text": "Training uses"
+ },
+ {
+  "start": 28.304,
+  "end": 29.412,
+  "text": "verifiable rewards"
+ },
+ {
+  "start": 29.412,
+  "end": 30.158,
+  "text": "throughout."
+ },
+ {
+  "start": 30.217,
+  "end": 31.315,
+  "text": "No second model,"
+ },
+ {
+  "start": 31.315,
+  "end": 32.51,
+  "text": "no reward model,"
+ },
+ {
+  "start": 32.51,
+  "end": 33.565,
+  "text": "no preference data,"
+ },
+ {
+  "start": 33.565,
+  "end": 34.195,
+  "text": "and no human"
+ },
+ {
+  "start": 34.195,
+  "end": 35.217,
+  "text": "annotation enter"
+ },
+ {
+  "start": 35.217,
+  "end": 35.951,
+  "text": "anywhere."
+ },
+ {
+  "start": 36.41,
+  "end": 37.204,
+  "text": "A new training loop"
+ },
+ {
+  "start": 37.204,
+  "end": 38.16,
+  "text": "targets how models"
+ },
+ {
+  "start": 38.16,
+  "end": 39.297,
+  "text": "handle opposition."
+ }
+]

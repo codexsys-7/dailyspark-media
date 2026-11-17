@@ -1,0 +1,197 @@
+[
+ {
+  "start": 0.815,
+  "end": 1.957,
+  "text": "In under three hours,"
+ },
+ {
+  "start": 1.957,
+  "end": 3.022,
+  "text": "an AI hacking tool"
+ },
+ {
+  "start": 3.022,
+  "end": 3.848,
+  "text": "can go from target"
+ },
+ {
+  "start": 3.848,
+  "end": 4.648,
+  "text": "to break-in."
+ },
+ {
+  "start": 5.128,
+  "end": 6.41,
+  "text": "The FBI warns hackers"
+ },
+ {
+  "start": 6.41,
+  "end": 7.671,
+  "text": "are using Artex,"
+ },
+ {
+  "start": 7.671,
+  "end": 8.834,
+  "text": "an open-source AI"
+ },
+ {
+  "start": 8.834,
+  "end": 9.78,
+  "text": "penetration-testing"
+ },
+ {
+  "start": 9.78,
+  "end": 10.323,
+  "text": "tool,"
+ },
+ {
+  "start": 10.323,
+  "end": 11.095,
+  "text": "to run autonomous"
+ },
+ {
+  "start": 11.095,
+  "end": 11.895,
+  "text": "attacks."
+ },
+ {
+  "start": 12.355,
+  "end": 13.257,
+  "text": "It scans a network"
+ },
+ {
+  "start": 13.257,
+  "end": 14.311,
+  "text": "for weak spots,"
+ },
+ {
+  "start": 14.311,
+  "end": 15.214,
+  "text": "like exposed or"
+ },
+ {
+  "start": 15.214,
+  "end": 16.409,
+  "text": "stolen passwords,"
+ },
+ {
+  "start": 16.409,
+  "end": 17.431,
+  "text": "gets a foothold,"
+ },
+ {
+  "start": 17.431,
+  "end": 18.018,
+  "text": "then spreads to"
+ },
+ {
+  "start": 18.018,
+  "end": 18.866,
+  "text": "databases and"
+ },
+ {
+  "start": 18.866,
+  "end": 19.851,
+  "text": "mailboxes."
+ },
+ {
+  "start": 20.313,
+  "end": 21.052,
+  "text": "Attacks on South"
+ },
+ {
+  "start": 21.052,
+  "end": 21.835,
+  "text": "Korean financial"
+ },
+ {
+  "start": 21.835,
+  "end": 23.204,
+  "text": "firms exposed data of"
+ },
+ {
+  "start": 23.204,
+  "end": 24.715,
+  "text": "at least 68,000"
+ },
+ {
+  "start": 24.715,
+  "end": 25.363,
+  "text": "people."
+ },
+ {
+  "start": 25.422,
+  "end": 26.389,
+  "text": "A ConnectWise breach"
+ },
+ {
+  "start": 26.389,
+  "end": 27.117,
+  "text": "reached at least"
+ },
+ {
+  "start": 27.117,
+  "end": 29.385,
+  "text": "2,250 customers."
+ },
+ {
+  "start": 29.855,
+  "end": 30.453,
+  "text": "Artex went"
+ },
+ {
+  "start": 30.453,
+  "end": 31.42,
+  "text": "closed-source,"
+ },
+ {
+  "start": 31.42,
+  "end": 32.311,
+  "text": "but the FBI says"
+ },
+ {
+  "start": 32.311,
+  "end": 33.616,
+  "text": "the old open version"
+ },
+ {
+  "start": 33.616,
+  "end": 34.496,
+  "text": "is still widely"
+ },
+ {
+  "start": 34.496,
+  "end": 35.383,
+  "text": "accessible."
+ },
+ {
+  "start": 35.856,
+  "end": 36.573,
+  "text": "The doors it used"
+ },
+ {
+  "start": 36.573,
+  "end": 37.356,
+  "text": "were basic:"
+ },
+ {
+  "start": 37.356,
+  "end": 38.28,
+  "text": "missing multi-factor"
+ },
+ {
+  "start": 38.28,
+  "end": 38.921,
+  "text": "logins,"
+ },
+ {
+  "start": 38.921,
+  "end": 39.834,
+  "text": "and old passwords"
+ },
+ {
+  "start": 39.834,
+  "end": 40.938,
+  "text": "nobody revoked."
+ }
+]

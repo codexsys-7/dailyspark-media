@@ -1,0 +1,162 @@
+[
+ {
+  "start": 0.728,
+  "end": 1.565,
+  "text": "A new training-free"
+ },
+ {
+  "start": 1.565,
+  "end": 2.489,
+  "text": "method picks LoRA"
+ },
+ {
+  "start": 2.489,
+  "end": 3.5,
+  "text": "adapters without"
+ },
+ {
+  "start": 3.5,
+  "end": 4.474,
+  "text": "learning a router."
+ },
+ {
+  "start": 4.949,
+  "end": 5.873,
+  "text": "Large language models"
+ },
+ {
+  "start": 5.873,
+  "end": 6.764,
+  "text": "are expensive to"
+ },
+ {
+  "start": 6.764,
+  "end": 7.851,
+  "text": "update through full"
+ },
+ {
+  "start": 7.851,
+  "end": 8.629,
+  "text": "retraining."
+ },
+ {
+  "start": 9.091,
+  "end": 10.134,
+  "text": "Repeated adaptation"
+ },
+ {
+  "start": 10.134,
+  "end": 11.037,
+  "text": "creates a growing"
+ },
+ {
+  "start": 11.037,
+  "end": 12.406,
+  "text": "pool of task-specific"
+ },
+ {
+  "start": 12.406,
+  "end": 13.537,
+  "text": "LoRA adapters,"
+ },
+ {
+  "start": 13.537,
+  "end": 14.341,
+  "text": "and that complicates"
+ },
+ {
+  "start": 14.341,
+  "end": 15.211,
+  "text": "adapter selection"
+ },
+ {
+  "start": 15.211,
+  "end": 16.282,
+  "text": "during inference."
+ },
+ {
+  "start": 16.772,
+  "end": 17.467,
+  "text": "The paper frames"
+ },
+ {
+  "start": 17.467,
+  "end": 18.098,
+  "text": "routing as a"
+ },
+ {
+  "start": 18.098,
+  "end": 18.902,
+  "text": "representation"
+ },
+ {
+  "start": 18.902,
+  "end": 19.924,
+  "text": "alignment problem in"
+ },
+ {
+  "start": 19.924,
+  "end": 20.761,
+  "text": "the adapter-output"
+ },
+ {
+  "start": 20.761,
+  "end": 21.55,
+  "text": "space."
+ },
+ {
+  "start": 22.007,
+  "end": 22.942,
+  "text": "It uses cosine"
+ },
+ {
+  "start": 22.942,
+  "end": 23.996,
+  "text": "similarity to match"
+ },
+ {
+  "start": 23.996,
+  "end": 24.877,
+  "text": "adapter-conditioned"
+ },
+ {
+  "start": 24.877,
+  "end": 26.148,
+  "text": "query representations"
+ },
+ {
+  "start": 26.148,
+  "end": 26.757,
+  "text": "against task"
+ },
+ {
+  "start": 26.757,
+  "end": 27.687,
+  "text": "prototypes."
+ },
+ {
+  "start": 28.165,
+  "end": 28.915,
+  "text": "It outperforms"
+ },
+ {
+  "start": 28.915,
+  "end": 29.502,
+  "text": "training-free"
+ },
+ {
+  "start": 29.502,
+  "end": 30.415,
+  "text": "baselines and"
+ },
+ {
+  "start": 30.415,
+  "end": 31.404,
+  "text": "approaches a trained"
+ },
+ {
+  "start": 31.404,
+  "end": 32.574,
+  "text": "retrieval encoder."
+ }
+]

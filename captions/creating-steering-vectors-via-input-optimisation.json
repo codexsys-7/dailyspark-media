@@ -1,0 +1,157 @@
+[
+ {
+  "start": 0.815,
+  "end": 1.75,
+  "text": "A suffix can mimic"
+ },
+ {
+  "start": 1.75,
+  "end": 2.674,
+  "text": "a steering vector"
+ },
+ {
+  "start": 2.674,
+  "end": 3.402,
+  "text": "without touching"
+ },
+ {
+  "start": 3.402,
+  "end": 4.528,
+  "text": "model internals."
+ },
+ {
+  "start": 4.997,
+  "end": 6.443,
+  "text": "ActGCG modifies"
+ },
+ {
+  "start": 6.443,
+  "end": 7.247,
+  "text": "Greedy Coordinate"
+ },
+ {
+  "start": 7.247,
+  "end": 8.584,
+  "text": "Gradient to optimize"
+ },
+ {
+  "start": 8.584,
+  "end": 9.573,
+  "text": "a suffix toward"
+ },
+ {
+  "start": 9.573,
+  "end": 10.938,
+  "text": "target activations."
+ },
+ {
+  "start": 11.395,
+  "end": 12.243,
+  "text": "Those activations"
+ },
+ {
+  "start": 12.243,
+  "end": 13.091,
+  "text": "come from adding a"
+ },
+ {
+  "start": 13.091,
+  "end": 13.971,
+  "text": "steering vector to"
+ },
+ {
+  "start": 13.971,
+  "end": 15.069,
+  "text": "the residual stream"
+ },
+ {
+  "start": 15.069,
+  "end": 16.184,
+  "text": "during generation."
+ },
+ {
+  "start": 16.652,
+  "end": 17.652,
+  "text": "The team also adds"
+ },
+ {
+  "start": 17.652,
+  "end": 18.934,
+  "text": "universal suffixes,"
+ },
+ {
+  "start": 18.934,
+  "end": 19.804,
+  "text": "a model-translation"
+ },
+ {
+  "start": 19.804,
+  "end": 20.369,
+  "text": "step,"
+ },
+ {
+  "start": 20.369,
+  "end": 21.152,
+  "text": "and a soft-suffix"
+ },
+ {
+  "start": 21.152,
+  "end": 21.897,
+  "text": "variant."
+ },
+ {
+  "start": 22.421,
+  "end": 23.215,
+  "text": "For German,"
+ },
+ {
+  "start": 23.215,
+  "end": 24.008,
+  "text": "a discrete suffix"
+ },
+ {
+  "start": 24.008,
+  "end": 24.823,
+  "text": "works almost"
+ },
+ {
+  "start": 24.823,
+  "end": 25.678,
+  "text": "perfectly;"
+ },
+ {
+  "start": 25.737,
+  "end": 26.726,
+  "text": "anti-refusal is"
+ },
+ {
+  "start": 26.726,
+  "end": 27.356,
+  "text": "weaker under"
+ },
+ {
+  "start": 27.356,
+  "end": 28.308,
+  "text": "HarmBench."
+ },
+ {
+  "start": 28.765,
+  "end": 29.798,
+  "text": "Input can approximate"
+ },
+ {
+  "start": 29.798,
+  "end": 30.461,
+  "text": "steering,"
+ },
+ {
+  "start": 30.461,
+  "end": 31.352,
+  "text": "but the loss depends"
+ },
+ {
+  "start": 31.352,
+  "end": 32.348,
+  "text": "on the concept."
+ }
+]
