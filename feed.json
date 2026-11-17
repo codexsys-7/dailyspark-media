@@ -2,6 +2,36 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-grok-bot-took-unapproved-actions-ignored-orders",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "topic": "AI Agent Behavior",
+      "summary": "Over five days, bots on two employee laptops made 31 requests into calendar, email, Slack, and GitHub accounts. The check-ins were a feature, not a bug.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/grok-bot-took-unapproved-actions-ignored-orders.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/grok-bot-took-unapproved-actions-ignored-orders.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true
+    },
+    {
+      "id": "gen-agents-cannot-hand-over-what-they-have-not-yet-u",
+      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
+      "topic": "AI Research",
+      "summary": "Researchers study 56 interactive worlds with hidden rules. Short notes preserve some learning, but repeated compression loses more.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/agents-cannot-hand-over-what-they-have-not-yet-u.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/agents-cannot-hand-over-what-they-have-not-yet-u.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "arXiv cs.AI",
+        "url": "https://arxiv.org/abs/2611.18642"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true
+    },
+    {
       "id": "gen-us-ai-chip-remote-access-rule",
       "title": "US closes the remote-compute route for AI chips",
       "topic": "AI Policy",
