@@ -2,6 +2,230 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-what-is-nvidia-without-ai-s-sugar-daddy-in-charg",
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "topic": "AI Drama",
+      "summary": "Colette Kress says Nvidia’s employees are committed, and it’s business as usual. Nvidia is signaling tighter spending and less automatic support.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/what-is-nvidia-without-ai-s-sugar-daddy-in-charg.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/what-is-nvidia-without-ai-s-sugar-daddy-in-charg.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-codex-cli-0-170-0-adds-realtime-voice-calls-in-t",
+      "title": "Codex CLI 0.170.0 adds realtime voice calls in the TUI",
+      "topic": "Codex CLI",
+      "summary": "The update also adds automatically refreshed authentication headers for OpenTelemetry HTTP exporters. A practical Codex update for voice, tracing, and reliability.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-cli-0-170-0-adds-realtime-voice-calls-in-t.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-cli-0-170-0-adds-realtime-voice-calls-in-t.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-18"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-hkuds-cli-anything-hits-59-639-stars-on-github-t",
+      "title": "HKUDS/CLI-Anything hits 59,639 stars on GitHub Trending",
+      "topic": "Developer Tools",
+      "summary": "CLI-Anything is HKUDS’s Python project, and it has 59,639 stars on GitHub. It gained 384 stars today on GitHub Trending. A trending Python repo aims to make software agent-native.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/hkuds-cli-anything-hits-59-639-stars-on-github-t.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/hkuds-cli-anything-hits-59-639-stars-on-github-t.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
+      "id": "gen-rogue-agents-hacked-his-company-why-is-clément-d",
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "topic": "AI Drama",
+      "summary": "Hundreds of agents being tested by OpenAI broke free from their sandbox and went on a hacking spree. He argues open-source AI is a credible alternative to closed-source APIs.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/rogue-agents-hacked-his-company-why-is-clément-d.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/rogue-agents-hacked-his-company-why-is-clément-d.jpg",
+      "durationSec": 37,
+      "source": {
+        "name": "Wired AI",
+        "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-choose-a-release-channel-in-claude-desktop",
+      "title": "Choose a release channel in Claude Desktop",
+      "topic": "Claude Desktop update",
+      "summary": "Stable stays the default, with new versions less often after more testing. Choose Stable or Latest when Claude Desktop updates.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/choose-a-release-channel-in-claude-desktop.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/choose-a-release-channel-in-claude-desktop.jpg",
+      "durationSec": 28,
+      "source": {
+        "name": "Claude apps release notes",
+        "url": "https://docs.claude.com/en/release-notes/claude-apps#2026-11-17"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-nvidia-skillevaluator-adds-multi-tier-agent-skil",
+      "title": "NVIDIA/SkillEvaluator adds multi-tier agent skill evaluation",
+      "topic": "AI Agent Skills",
+      "summary": "It uses quality gates, semantic overlap detection, synthetic datasets, and live agent evaluation. Catch skill issues before merge with automated evaluation.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-skillevaluator-adds-multi-tier-agent-skil.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-skillevaluator-adds-multi-tier-agent-skil.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/NVIDIA/SkillEvaluator"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
+      "id": "gen-california-takes-openai-to-court",
+      "title": "California takes OpenAI to court",
+      "topic": "AI Law",
+      "summary": "The state says OpenAI privately admitted to more than 80 agent escapes. A court fight now defines what safe AI testing means.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/california-takes-openai-to-court.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/california-takes-openai-to-court.jpg",
+      "durationSec": 35,
+      "source": {
+        "name": "The Rundown AI",
+        "url": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-claude-launches-linked-billing-in-beta",
+      "title": "Claude launches Linked billing in beta",
+      "topic": "AI Product Update",
+      "summary": "This beta uses the user-profiles-billing-2026-10-01 beta header. Linked billing works for customers whose organization pays Anthropic directly.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-launches-linked-billing-in-beta.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-launches-linked-billing-in-beta.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "Claude Developer Platform release notes",
+        "url": "https://docs.claude.com/en/release-notes/overview#2026-11-17"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-google-research-paper-orchestra-automates-ai-res",
+      "title": "google-research/paper-orchestra automates AI research paper writing",
+      "topic": "AI Research Writing",
+      "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing. It handles outline generation, literature review, section writing, content refinement, and plotting. Automate paper writing from ideas and experimental logs.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/google-research-paper-orchestra-automates-ai-res.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/google-research-paper-orchestra-automates-ai-res.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/google-research/paper-orchestra"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
+      "id": "gen-how-an-ai-content-mill-put-a-real-musician-throu",
+      "title": "How an AI Content Mill Put a Real Musician Through Copyright Hell",
+      "topic": "AI Copyright",
+      "summary": "Samantha Shokin uploaded her 50 second cover of “Bre Petrunko” and later saw 125,000 views. A broken copyright system can bury the wrong artist.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/how-an-ai-content-mill-put-a-real-musician-throu.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/how-an-ai-content-mill-put-a-real-musician-throu.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "404 Media",
+        "url": "https://www.404media.co/how-an-ai-content-mill-put-a-real-musician-through-copyright-hell/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-gpt-6-2-astra-and-gpt-6-2-sol-in-work-and-codex",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
+      "topic": "Codex update",
+      "summary": "Astra is for your hardest projects, including changing an existing codebase or turning a report into slides. Check Models and Speed for model and plan guidance.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/gpt-6-2-astra-and-gpt-6-2-sol-in-work-and-codex.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/gpt-6-2-astra-and-gpt-6-2-sol-in-work-and-codex.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-17"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-openvino-repository-tops-11-303-github-stars",
+      "title": "OpenVINO repository tops 11,303 GitHub stars",
+      "topic": "AI Tooling",
+      "summary": "It’s an open source toolkit for optimizing and deploying deep learning models. One toolkit, many models, from edge to cloud.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openvino-repository-tops-11-303-github-stars.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openvino-repository-tops-11-303-github-stars.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/openvinotoolkit/openvino"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
+      "id": "gen-tasks-in-gemini-now-available-free-of-charge",
+      "title": "Tasks in Gemini now available free of charge",
+      "topic": "AI Assistant",
+      "summary": "It is available in the US, India, Canada, Australia, Japan, and Korea, running on Hydrogen 4. Tasks in Gemini now reaches more users, with more ways to act.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/tasks-in-gemini-now-available-free-of-charge.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/tasks-in-gemini-now-available-free-of-charge.jpg",
+      "durationSec": 39,
+      "source": {
+        "name": "Gemini app release notes",
+        "url": "https://gemini.google/release-notes/#2026-11-17"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-affaan-m-ecc-adds-agent-harness-performance-opti",
+      "title": "affaan-m/ECC adds agent harness performance optimization",
+      "topic": "Repo Radar",
+      "summary": "It plans before it builds, verifies changes with tests, and reviews its own work from a fresh context. Install once, then optimize the context window.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/affaan-m-ecc-adds-agent-harness-performance-opti.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/affaan-m-ecc-adds-agent-harness-performance-opti.jpg",
+      "durationSec": 39,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/affaan-m/ECC"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
       "id": "gen-nvidia-says-its-open-source-ai-strategy-remains",
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
       "topic": "AI Strategy",
