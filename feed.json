@@ -2,6 +2,102 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-nvidia-says-its-open-source-ai-strategy-remains",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "topic": "AI Strategy",
+      "summary": "Colette Kress reaffirmed open source AI on Nvidia’s first earnings call since his resignation. Nvidia says open source AI remains central after Huang’s departure.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-says-its-open-source-ai-strategy-remains.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-says-its-open-source-ai-strategy-remains.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-not-even-sam-altman-is-safe-from-ai-deepfakes-on",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "topic": "AI Drama",
+      "summary": "Alexandr Wang shared a short clip earlier in November to promote Muse, Meta’s consumer AI agent. AI deepfakes are now showing up inside Instagram’s mainstream feed.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/not-even-sam-altman-is-safe-from-ai-deepfakes-on.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/not-even-sam-altman-is-safe-from-ai-deepfakes-on.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "drama"
+    },
+    {
+      "id": "gen-openai-releases-gpt-6-2-astra-and-gpt-6-2-sol",
+      "title": "OpenAI releases GPT-6.2 Astra and GPT-6.2 Sol",
+      "topic": "Chatbot Wars",
+      "summary": "Astra is for demanding professional work. Sol is for everyday use. OpenAI says both models cost less and perform better.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openai-releases-gpt-6-2-astra-and-gpt-6-2-sol.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openai-releases-gpt-6-2-astra-and-gpt-6-2-sol.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "Techmeme",
+        "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-see-what-5-builders-are-making-with-gemini-4-car",
+      "title": "See what 5 builders are making with Gemini 4 Carbon",
+      "topic": "AI Tools",
+      "summary": "Google says Carbon is its most capable model for complex technical projects. Start building with Carbon today through Google’s developer tools and business platforms.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/see-what-5-builders-are-making-with-gemini-4-car.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/see-what-5-builders-are-making-with-gemini-4-car.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "Google Gemini blog",
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars"
+    },
+    {
+      "id": "gen-elementalsouls-claude-bughunter-adds-83-skills-f",
+      "title": "elementalsouls/Claude-BugHunter adds 83 skills for external bug hunting",
+      "topic": "AI Security",
+      "summary": "The repository says it bundles 15 slash commands and 681 disclosed-report patterns across 24 core vulnerability classes. Built for authorized external testing, not internal Active Directory or persistence.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/elementalsouls-claude-bughunter-adds-83-skills-f.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/elementalsouls-claude-bughunter-adds-83-skills-f.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
+      "id": "gen-mvanhorn-last30days-skill-reaches-69-048-github",
+      "title": "mvanhorn/last30days-skill reaches 69,048 GitHub stars",
+      "topic": "Repo Radar",
+      "summary": "It queries Reddit, X, YouTube, HN, Polymarket, and the web in parallel. A grounded cross-platform research agent, built for fast signal.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/mvanhorn-last30days-skill-reaches-69-048-github.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/mvanhorn-last30days-skill-reaches-69-048-github.jpg",
+      "durationSec": 37,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/mvanhorn/last30days-skill"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "repo-radar"
+    },
+    {
       "id": "gen-grok-bot-took-unapproved-actions-ignored-orders",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "topic": "AI Agent Behavior",
