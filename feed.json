@@ -2,6 +2,411 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-microsoft-ceo-satya-nadella-explains-why-he-aske",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "topic": "AI Strategy",
+      "summary": "He offered buyouts to 60,000 employees in October, instead of another massive layoff. Microsoft’s bet: AI-first work will reshape every job.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/microsoft-ceo-satya-nadella-explains-why-he-aske.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/microsoft-ceo-satya-nadella-explains-why-he-aske.jpg",
+      "durationSec": 33,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      },
+      "date": "2026-11-18",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "nadella|satya",
+      "contextPack": {
+        "script": "Buyouts. Satya Nadella says Microsoft is reorganizing around AI, not replacing engineers. Microsoft’s bet: AI-first work will reshape every job. He offered buyouts to 60,000 employees in October, instead of another massive layoff. Nadella said the goal was agency. People could choose amid a hard structural change. He pointed to Cowork, where 11 developers use AI to build the software factory. He said every employee will one day manage agents, and all jobs will change.",
+        "sourceUrl": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "facts": [
+          "Satya Nadella says Microsoft is reorganizing around AI, not replacing engineers.",
+          "Microsoft’s bet is that AI-first work will reshape every job.",
+          "He offered buyouts to 60,000 employees in October instead of another massive layoff.",
+          "Nadella said the goal was agency, so people could choose amid a hard structural change.",
+          "He pointed to Cowork, where 11 developers use AI to build the software factory, and said every employee will one day manage agents."
+        ],
+        "suggestions": [
+          "Why did Microsoft choose buyouts instead of a layoff?",
+          "What does Nadella mean by employees managing agents?",
+          "How is Cowork using AI with only 11 developers?"
+        ],
+        "density": 0.311,
+        "quiz": {
+          "question": "What did Nadella say was the goal of offering buyouts?",
+          "choices": [
+            "Agency",
+            "Higher salaries",
+            "More office space",
+            "Replacing engineers"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-anthropic-mathematician-says-he-and-claude-prove",
+      "title": "Anthropic mathematician says he and Claude proved the Riemann hypothesis",
+      "topic": "AI Research",
+      "summary": "Levent Alpöge posted the claim in a four-page note on Friday. The claim awaits full verification and a readable write-up.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/anthropic-mathematician-says-he-and-claude-prove.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/anthropic-mathematician-says-he-and-claude-prove.jpg",
+      "durationSec": 28,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://thenextweb.com/news/anthropic-alpoge-claude-riemann-hypothesis-proof-lean"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "anthropic|claude|riemann",
+      "contextPack": {
+        "script": "Proved. Anthropic says Claude helped crack mathematics’ most famous open problem. The claim awaits full verification and a readable write-up. Levent Alpöge posted the claim in a four-page note on Friday. The proof is only out as Lean code, not a human-readable paper. Alpöge says his method also proves the Generalized Riemann Hypothesis. He says Claude handled the final steps, and an independent Lean check is pending.",
+        "sourceUrl": "https://thenextweb.com/news/anthropic-alpoge-claude-riemann-hypothesis-proof-lean",
+        "facts": [
+          "Anthropic says Claude helped crack mathematics’ most famous open problem.",
+          "The claim awaits full verification and a readable write-up.",
+          "Levent Alpöge posted the claim in a four-page note on Friday.",
+          "The proof is only out as Lean code, not a human-readable paper.",
+          "Alpöge says his method also proves the Generalized Riemann Hypothesis, and an independent Lean check is pending."
+        ],
+        "suggestions": [
+          "Why does this claim still need full verification?",
+          "What is Lean code, and why is it important here?",
+          "What is the Generalized Riemann Hypothesis?"
+        ],
+        "density": 0.268,
+        "quiz": {
+          "question": "What form is the proof currently available in?",
+          "choices": [
+            "Lean code",
+            "A human-readable paper",
+            "A conference presentation",
+            "A published textbook chapter"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-plannotator-local-review-surface-for-ai-coding-a",
+      "title": "Plannotator: local review surface for AI coding agents",
+      "topic": "Repo Radar",
+      "summary": "It’s a local, browser-based review surface for plans, specs, markdown, HTML, and code diffs. A review layer for agents, built for feedback loops.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/plannotator-local-review-surface-for-ai-coding-a.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/plannotator-local-review-surface-for-ai-coding-a.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/backnotprop/plannotator"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "ai|claude|codex|copilot|deepseek|deepseek-harness|gemini|plannotator",
+      "contextPack": {
+        "script": "Plannotator. This GitHub repo keeps you in the loop with AI coding agents. A review layer for agents, built for feedback loops. It’s a local, browser-based review surface for plans, specs, markdown, HTML, and code diffs. Developers can annotate, comment, and send feedback back to agents with one click. It works with Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi. The README's showcase lists Herdr Annotate, and a Show HN post highlights an email-like interface to review, decide, and annotate agent work.",
+        "sourceUrl": "https://github.com/backnotprop/plannotator",
+        "facts": [
+          "Plannotator is a GitHub repo that keeps you in the loop with AI coding agents.",
+          "It is a review layer for agents, built for feedback loops.",
+          "It is a local, browser-based review surface for plans, specs, markdown, HTML, and code diffs.",
+          "Developers can annotate, comment, and send feedback back to agents with one click.",
+          "It works with Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode, Kiro, Droid, Amp, DeepSeek Harness, and Pi."
+        ],
+        "suggestions": [
+          "How does Plannotator fit into an AI coding workflow?",
+          "What kinds of files or outputs can you review in Plannotator?",
+          "Which coding agents does Plannotator work with?"
+        ],
+        "density": 0.533,
+        "quiz": {
+          "question": "What can developers do in Plannotator with one click?",
+          "choices": [
+            "Send feedback back to agents",
+            "Generate new coding agents",
+            "Publish code to GitHub Pages",
+            "Translate markdown into HTML"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-google-to-retire-nest-app-and-replace-assistant",
+      "title": "Google to retire Nest app and replace Assistant with Gemini in 2027",
+      "topic": "AI Assistant",
+      "summary": "The Nest app becomes unavailable on Android, iOS and the web from January 25, 2027. Google is moving Nest and Assistant users to Google Home and Gemini.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/google-to-retire-nest-app-and-replace-assistant.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/google-to-retire-nest-app-and-replace-assistant.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.thedailystar.net/news/technology/news/google-retire-nest-app-and-replace-assistant-gemini-2027-4329516"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "assistant|gemini|nest",
+      "contextPack": {
+        "script": "Retiring. Google is shifting Nest control and Assistant to Gemini for Home in 2027. Google is moving Nest and Assistant users to Google Home and Gemini. The Nest app becomes unavailable on Android, iOS and the web from January 25, 2027. Users will switch to the Google Home app for remote control and notifications for Nest devices. Existing Nest devices keep working through Google Home, and settings, cameras, and video history transfer automatically. On August 2, 2027, Gemini for Home fully replaces Google Assistant on Google speakers and smart displays.",
+        "sourceUrl": "https://www.thedailystar.net/news/technology/news/google-retire-nest-app-and-replace-assistant-gemini-2027-4329516",
+        "facts": [
+          "Google is shifting Nest control and Assistant to Gemini for Home in 2027.",
+          "The Nest app will become unavailable on Android, iOS, and the web from January 25, 2027.",
+          "Users will switch to the Google Home app for remote control and notifications for Nest devices.",
+          "Existing Nest devices will keep working through Google Home, and settings, cameras, and video history will transfer automatically.",
+          "On August 2, 2027, Gemini for Home will fully replace Google Assistant on Google speakers and smart displays."
+        ],
+        "suggestions": [
+          "What will happen to the Nest app in 2027?",
+          "When will Gemini for Home replace Google Assistant?",
+          "Will existing Nest devices still work after the switch?"
+        ],
+        "density": 0.354,
+        "quiz": {
+          "question": "When will the Nest app become unavailable on Android, iOS, and the web?",
+          "choices": [
+            "January 25, 2027",
+            "August 2, 2027",
+            "January 25, 2026",
+            "August 2, 2026"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-chromedevtools-chrome-devtools-mcp-chrome-devtoo",
+      "title": "ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
+      "topic": "AI Tools",
+      "summary": "ChromeDevTools/chrome-devtools-mcp is a TypeScript repo for coding agents. It has 58,622 stars on GitHub, and gained 3,306 stars this week on GitHub Trending. A browser-control tool, with automation, debugging, and performance tracing.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/chromedevtools-chrome-devtools-mcp-chrome-devtoo.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/chromedevtools-chrome-devtools-mcp-chrome-devtoo.jpg",
+      "durationSec": 46,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "chrome|chromedevtools|claude|devtools",
+      "contextPack": {
+        "script": "Tricky. This repo lets coding agents control and inspect a live Chrome browser. A browser-control tool, with automation, debugging, and performance tracing. ChromeDevTools/chrome-devtools-mcp is a TypeScript repo for coding agents. It has 58,622 stars on GitHub, and gained 3,306 stars this week on GitHub Trending. It works as an MCP server and as a CLI. The README says it gives AI coding assistants reliable automation, in-depth debugging, and performance analysis. One quick start: enter a prompt so the MCP client opens the browser and records a performance trace. The README’s showcase lists an example for Claude Code using the skills directory of your agent.",
+        "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "facts": [
+          "This repo lets coding agents control and inspect a live Chrome browser.",
+          "It is a TypeScript repo for coding agents and works as both an MCP server and a CLI.",
+          "The README says it gives AI coding assistants reliable automation, in-depth debugging, and performance analysis.",
+          "The repo has 58,622 stars on GitHub and gained 3,306 stars this week on GitHub Trending.",
+          "A quick start example has the MCP client open the browser and record a performance trace."
+        ],
+        "suggestions": [
+          "How does this repo let an AI agent control a browser?",
+          "What can the MCP client do in the quick start example?",
+          "Why does the README emphasize debugging and performance analysis?"
+        ],
+        "density": 0.554,
+        "quiz": {
+          "question": "What does the repo let coding agents do with Chrome?",
+          "choices": [
+            "Control and inspect a live Chrome browser",
+            "Build Chrome extensions for mobile devices",
+            "Run Chrome only in offline mode",
+            "Replace Chrome with a different browser engine"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-gemini-app-for-mac-adds-computer-use-across-apps",
+      "title": "Gemini app for Mac adds Computer use across apps and the web",
+      "topic": "AI Product Update",
+      "summary": "It works in the Gemini app for Mac in its own separate window. Computer use handles tedious steps while you keep control.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/gemini-app-for-mac-adds-computer-use-across-apps.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/gemini-app-for-mac-adds-computer-use-across-apps.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "Gemini app release notes",
+        "url": "https://gemini.google/release-notes/#2026-11-19"
+      },
+      "date": "2026-11-19",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "computer|gemini|mac",
+      "contextPack": {
+        "script": "Watching. Gemini can now click, type, and fill forms across your Mac apps. Computer use handles tedious steps while you keep control. It works in the Gemini app for Mac in its own separate window. You can watch the live preview, stop anytime in one click, or keep using your screen and cursor uninterrupted. Gemini pauses for logins or payments and may ask for confirmation before sensitive actions. It’s rolling out in English for Google AI Plus, Pro, and Ultra subscribers in the U.S.",
+        "sourceUrl": "https://gemini.google/release-notes/#2026-11-19",
+        "facts": [
+          "Gemini can now click, type, and fill forms across Mac apps.",
+          "Computer use handles tedious steps while you keep control.",
+          "It works in the Gemini app for Mac in its own separate window.",
+          "You can watch the live preview, stop anytime in one click, or keep using your screen and cursor uninterrupted.",
+          "Gemini pauses for logins or payments and may ask for confirmation before sensitive actions."
+        ],
+        "suggestions": [
+          "How does Gemini keep you in control while using apps?",
+          "What kinds of actions does Gemini pause for?",
+          "Who can get this feature right now?"
+        ],
+        "density": 0.236,
+        "quiz": {
+          "question": "What can Gemini now do across your Mac apps?",
+          "choices": [
+            "Click, type, and fill forms",
+            "Only open files and rename folders",
+            "Only summarize web pages",
+            "Only send email replies"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-tradermonty-claude-trading-skills-claude-code-sk",
+      "title": "tradermonty/claude-trading-skills: Claude Code skills for traders",
+      "topic": "AI Trading",
+      "summary": "It’s for time-constrained individual investors using long-term investing, ETFs, and dividend stocks, with disciplined swing trading when conditions are favorable. Open source trading workflows, not buy or sell decisions.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/tradermonty-claude-trading-skills-claude-code-sk.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/tradermonty-claude-trading-skills-claude-code-sk.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/tradermonty/claude-trading-skills"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "claude|code",
+      "contextPack": {
+        "script": "Routine. This GitHub repo turns Claude into a trading workflow toolkit. Open source trading workflows, not buy or sell decisions. It’s for time-constrained individual investors using long-term investing, ETFs, and dividend stocks, with disciplined swing trading when conditions are favorable. The repository has 7,537 stars and gained 3,471 stars this week on GitHub Trending. The README says the goal is to structure market review, risk management, trade planning, journaling, and continuous improvement. The README’s showcase lists Trading Skills Navigator, market-regime-daily, Weekly Performance Digest, and Offline Quick Start.",
+        "sourceUrl": "https://github.com/tradermonty/claude-trading-skills",
+        "facts": [
+          "This GitHub repo turns Claude into a trading workflow toolkit.",
+          "It provides open source trading workflows, not buy or sell decisions.",
+          "It is for time-constrained individual investors using long-term investing, ETFs, and dividend stocks, with disciplined swing trading when conditions are favorable.",
+          "The repository has 7,537 stars and gained 3,471 stars this week on GitHub Trending.",
+          "The README says the goal is to structure market review, risk management, trade planning, journaling, and continuous improvement."
+        ],
+        "suggestions": [
+          "How does this repo structure a trading workflow without making buy or sell decisions?",
+          "What tools are listed in the README showcase?",
+          "Who is this repo designed for, and what investing styles does it mention?"
+        ],
+        "density": 0.51,
+        "quiz": {
+          "question": "What does the README say is the goal of the repository?",
+          "choices": [
+            "To structure market review, risk management, trade planning, journaling, and continuous improvement",
+            "To generate guaranteed buy and sell signals for traders",
+            "To replace long-term investing with day trading",
+            "To provide stock picks for all investors"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-meta-astryx-an-open-source-design-system-that-s",
+      "title": "meta/astryx: An open source design system that's fully customizable and agent ready",
+      "topic": "Repo Radar",
+      "summary": "It grew inside Meta over eight years and powers 13,000+ apps. A flexible UI system with shared tooling for humans and AI.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/meta-astryx-an-open-source-design-system-that-s.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/meta-astryx-an-open-source-design-system-that-s.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/meta/astryx"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "an|claude",
+      "contextPack": {
+        "script": "Agent-ready. Astryx is a customizable design system built for people and AI assistants. A flexible UI system with shared tooling for humans and AI. It grew inside Meta over eight years and powers 13,000+ apps. The repo has 31,613 stars, and it gained 4,131 stars this week. Astryx ships 150+ accessible components, brand-level theming, dark mode, templates, and a CLI. Try it for React 19+ apps, where init saves the getting-started guide to AGENTS.md or CLAUDE.md.",
+        "sourceUrl": "https://github.com/meta/astryx",
+        "facts": [
+          "Astryx is a customizable design system built for people and AI assistants.",
+          "It is a flexible UI system with shared tooling for humans and AI.",
+          "It grew inside Meta over eight years and powers 13,000+ apps.",
+          "The repo has 31,613 stars and gained 4,131 stars this week.",
+          "Astryx ships 150+ accessible components, brand-level theming, dark mode, templates, and a CLI."
+        ],
+        "suggestions": [
+          "What does it mean for a design system to be agent-ready?",
+          "How does Astryx support both humans and AI assistants?",
+          "What tools does Astryx include for React 19+ apps?"
+        ],
+        "density": 0.511,
+        "quiz": {
+          "question": "What does Astryx say its init command saves to?",
+          "choices": [
+            "AGENTS.md or CLAUDE.md",
+            "README.md or NOTES.md",
+            "package.json or TSConfig.json",
+            "index.html or app.config"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-dream-num-univer-builds-an-ai-office-with-univer",
+      "title": "dream-num/univer builds an AI office with Univer Office SDK",
+      "topic": "AI Office SDK",
+      "summary": "GitHub says dream-num/univer has 31,022 stars, and gained 7,539 stars this week. A flexible office SDK for apps, agents, and file workflows.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/dream-num-univer-builds-an-ai-office-with-univer.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/dream-num-univer-builds-an-ai-office-with-univer.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/dream-num/univer"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "ai|office|sdk|univer",
+      "contextPack": {
+        "script": "Build. Univer turns editing, calculation, and collaboration into one office SDK. A flexible office SDK for apps, agents, and file workflows. GitHub says dream-num/univer has 31,022 stars, and gained 7,539 stars this week. It’s built on an extensible open-source core, with TypeScript as the primary language. The README says you can start with open-source Sheets and Docs, then connect your own application or agent. A Show HN post titled Show HN: TinyClock – a tiny true 5-arch universal Mac OS X single-binary GUI app shows one built example.",
+        "sourceUrl": "https://github.com/dream-num/univer",
+        "facts": [
+          "Univer turns editing, calculation, and collaboration into one office SDK.",
+          "It is described as a flexible office SDK for apps, agents, and file workflows.",
+          "GitHub says dream-num/univer has 31,022 stars and gained 7,539 stars this week.",
+          "It is built on an extensible open-source core, with TypeScript as the primary language.",
+          "The README says you can start with open-source Sheets and Docs, then connect your own application or agent."
+        ],
+        "suggestions": [
+          "How does Univer combine editing, calculation, and collaboration in one SDK?",
+          "What can you build first with Univer Sheets and Docs?",
+          "Why is TypeScript the primary language for Univer?"
+        ],
+        "density": 0.517,
+        "quiz": {
+          "question": "What does the README say you can start with before connecting your own application or agent?",
+          "choices": [
+            "open-source Sheets and Docs",
+            "a closed-source spreadsheet editor",
+            "a mobile-only office suite",
+            "a database dashboard"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-sarvam-s-token-factory-stirs-debate-on-india-s-s",
       "title": "Sarvam’s token factory stirs debate on India’s sovereign AI push",
       "topic": "AI Policy",
