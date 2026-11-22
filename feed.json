@@ -2,6 +2,500 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-samsung-galaxy-s27-leak-now-bar-sports-alerts-an",
+      "title": "Samsung Galaxy S27 leak: Now Bar, sports alerts and AI video tools",
+      "topic": "AI Devices",
+      "summary": "Early Galaxy S27 software spotted a redesigned Now Bar near the front camera. Samsung has not confirmed the final features, launch date or prices.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/samsung-galaxy-s27-leak-now-bar-sports-alerts-an.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/samsung-galaxy-s27-leak-now-bar-sports-alerts-an.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.livemint.com/technology/samsung-galaxy-s27-leak-5-new-features-leaked-so-far-from-an-iphone-like-now-bar-to-ai-video-creation-11795344813020.html"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "ai|bar|galaxy|s27|samsung",
+      "contextPack": {
+        "script": "Leaked. Samsung's next phone may remake notifications and add AI video tools. Samsung has not confirmed the final features, launch date or prices. Early Galaxy S27 software spotted a redesigned Now Bar near the front camera. Samsung is also testing Moment Effects, with Sports as its only available category. Gen Video can turn a still photograph into a short video, with styles like Photobooth and Retro Game. Shorts could build videos from up to 30 photos, with text, stickers and transitions.",
+        "sourceUrl": "https://www.livemint.com/technology/samsung-galaxy-s27-leak-5-new-features-leaked-so-far-from-an-iphone-like-now-bar-to-ai-video-creation-11795344813020.html",
+        "facts": [
+          "Samsung's next phone may remake notifications and add AI video tools.",
+          "Samsung has not confirmed the final features, launch date, or prices.",
+          "Early Galaxy S27 software spotted a redesigned Now Bar near the front camera.",
+          "Samsung is testing Moment Effects, and Sports is its only available category.",
+          "Gen Video can turn a still photograph into a short video, and Shorts could build videos from up to 30 photos."
+        ],
+        "suggestions": [
+          "What is the redesigned Now Bar supposed to change?",
+          "How do Gen Video and Shorts differ in this leak?",
+          "What can the Sports category in Moment Effects do?"
+        ],
+        "density": 0.246,
+        "quiz": {
+          "question": "What is the only available category currently being tested for Moment Effects?",
+          "choices": [
+            "Sports",
+            "Photos",
+            "Retro Game",
+            "Notifications"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-google-is-adding-target-and-grocery-stores-to-se",
+      "title": "Google is adding Target and grocery stores to Search and Gemini, just in time for the holidays",
+      "topic": "AI Shopping",
+      "summary": "Google rolled out four new Connected Apps for grocery shopping. US shoppers get more grocery help inside Search and Gemini.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/google-is-adding-target-and-grocery-stores-to-se.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/google-is-adding-target-and-grocery-stores-to-se.jpg",
+      "durationSec": 30,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.digitaltrends.com/computing/google-connected-apps-groceries/"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "gemini|search|target",
+      "contextPack": {
+        "script": "Holiday. Google is adding grocery apps to Search and Gemini. US shoppers get more grocery help inside Search and Gemini. Google rolled out four new Connected Apps for grocery shopping. Albertsons, Safeway, Shaw’s, and Target join Instacart in Search and Gemini. Connected Apps in Search work in AI mode. Google says they’ll also be available in AI Overviews. To use one, you can mention it by name or start with @ and the service name.",
+        "sourceUrl": "https://www.digitaltrends.com/computing/google-connected-apps-groceries/",
+        "facts": [
+          "Google is adding grocery apps to Search and Gemini.",
+          "US shoppers will get more grocery help inside Search and Gemini.",
+          "Google rolled out four new Connected Apps for grocery shopping.",
+          "Albertsons, Safeway, Shaw’s, and Target join Instacart in Search and Gemini.",
+          "To use a Connected App, you can mention it by name or start with @ and the service name."
+        ],
+        "suggestions": [
+          "Which grocery apps are being added to Search and Gemini?",
+          "How do you activate a Connected App in Search?",
+          "Will these grocery apps also appear in AI Overviews?"
+        ],
+        "density": 0.361,
+        "quiz": {
+          "question": "Which store is listed as one of the new Connected Apps for grocery shopping?",
+          "choices": [
+            "Target",
+            "Walmart",
+            "Kroger",
+            "Costco"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-alibaba-open-code-review-gains-4-032-stars-on-gi",
+      "title": "alibaba/open-code-review gains 4,032 stars on GitHub Trending",
+      "topic": "AI Code Review",
+      "summary": "Open Code Review is an AI-powered code review CLI tool. It’s a hybrid of deterministic pipelines and an LLM Agent. Precise AI code review, tuned for big codebases.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/alibaba-open-code-review-gains-4-032-stars-on-gi.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/alibaba-open-code-review-gains-4-032-stars-on-gi.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "trending",
+      "contextPack": {
+        "script": "Rising. Alibaba’s code review tool is built for precise, scalable feedback. Precise AI code review, tuned for big codebases. Open Code Review is an AI-powered code review CLI tool. It’s a hybrid of deterministic pipelines and an LLM Agent. GitHub shows 55,274 stars, with 4,032 gained this week. The README says it was battle-tested at Alibaba’s scale. It reads Git diffs, inspects files, and generates structured review comments with line-level precision. A Show HN post titled Open Code Review – AI reviewers debate each other before feedback shows people are already trying it.",
+        "sourceUrl": "https://github.com/alibaba/open-code-review",
+        "facts": [
+          "Open Code Review is an AI-powered code review CLI tool.",
+          "It combines deterministic pipelines with an LLM Agent.",
+          "GitHub shows 55,274 stars, with 4,032 gained this week.",
+          "The README says it was battle-tested at Alibaba’s scale.",
+          "It reads Git diffs, inspects files, and generates structured review comments with line-level precision."
+        ],
+        "suggestions": [
+          "How does Open Code Review mix deterministic pipelines with an LLM Agent?",
+          "What does it mean that the tool gives line-level precision in reviews?",
+          "Why might a Show HN post suggest people are already trying it?"
+        ],
+        "density": 0.495,
+        "quiz": {
+          "question": "What does Open Code Review do with Git diffs and files?",
+          "choices": [
+            "It reads them and generates structured review comments",
+            "It writes new code and merges pull requests automatically",
+            "It deletes files it thinks are outdated",
+            "It only summarizes commit messages"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-is-selling-an-ai-version-of-your-face-to-this-mi",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "topic": "AI Media",
+      "summary": "Shortical’s new series, Inevitable, premiered in Los Angeles last week. A face licensing test that could reshape microdrama production.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/is-selling-an-ai-version-of-your-face-to-this-mi.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/is-selling-an-ai-version-of-your-face-to-this-mi.jpg",
+      "durationSec": 31,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "ai|hollywood|is",
+      "contextPack": {
+        "script": "Licensing. Shortical is turning an actor’s face into an AI microdrama star. A face licensing test that could reshape microdrama production. Shortical’s new series, Inevitable, premiered in Los Angeles last week. The wholly AI project uses Aki Avni’s face to create a digital avatar of him. Shortical says the platform is still early, with no signed contracts yet. The company is betting creators will license likenesses for AI content and get paid.",
+        "sourceUrl": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "facts": [
+          "Shortical is turning an actor’s face into an AI microdrama star.",
+          "The project is described as a face licensing test that could reshape microdrama production.",
+          "Shortical’s new series, Inevitable, premiered in Los Angeles last week.",
+          "The wholly AI project uses Aki Avni’s face to create a digital avatar of him.",
+          "Shortical says the platform is still early and has no signed contracts yet."
+        ],
+        "suggestions": [
+          "How does face licensing work in this AI microdrama project?",
+          "Why does Shortical think creators will license their likenesses?",
+          "What makes Inevitable different from a regular series?"
+        ],
+        "density": 0.343,
+        "quiz": {
+          "question": "What does Shortical use to create the digital avatar in Inevitable?",
+          "choices": [
+            "Aki Avni’s face",
+            "A signed contract with the actor",
+            "A fully animated character design",
+            "A prerecorded voice from Los Angeles"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-a-refreshed-look-for-claude-mobile-starts-rollin",
+      "title": "A refreshed look for Claude Mobile starts rolling out on iOS",
+      "topic": "AI Product Update",
+      "summary": "Your chats, projects, and plan stay the same. There’s nothing to turn on. A new look, plus beta computer use for Team and Enterprise.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/a-refreshed-look-for-claude-mobile-starts-rollin.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/a-refreshed-look-for-claude-mobile-starts-rollin.jpg",
+      "durationSec": 30,
+      "source": {
+        "name": "Claude apps release notes",
+        "url": "https://docs.claude.com/en/release-notes/claude-apps#2026-11-20"
+      },
+      "date": "2026-11-20",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "claude|mobile|os",
+      "contextPack": {
+        "script": "Refreshed. Claude Mobile is getting a new look, starting with Claude for iOS. A new look, plus beta computer use for Team and Enterprise. Your chats, projects, and plan stay the same. There’s nothing to turn on. Keep your app updated, and note the new look needs iOS 26 or later. Computer use is now in beta for Team and Enterprise plans. It works in Claude Desktop, and in Claude on the web and Claude Mobile where Computer access is on.",
+        "sourceUrl": "https://docs.claude.com/en/release-notes/claude-apps#2026-11-20",
+        "facts": [
+          "Claude Mobile is getting a new look, starting with Claude for iOS.",
+          "The update does not change your chats, projects, or plan.",
+          "There is nothing to turn on for the refreshed look.",
+          "The new look requires iOS 26 or later.",
+          "Computer use is now in beta for Team and Enterprise plans and works in Claude Desktop, Claude on the web, and Claude Mobile where Computer access is on."
+        ],
+        "suggestions": [
+          "What changed in the new Claude Mobile look?",
+          "Which iOS version is needed for the refreshed design?",
+          "Where does beta computer use work?"
+        ],
+        "density": 0.345,
+        "quiz": {
+          "question": "What iOS version is needed for the new Claude Mobile look?",
+          "choices": [
+            "iOS 26 or later",
+            "iOS 25 or later",
+            "iOS 18 or later",
+            "Any iPhone version"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-ffmpeg-skill-brings-local-ffmpeg-editing-to-codi",
+      "title": "ffmpeg-skill brings local FFmpeg editing to coding agents",
+      "topic": "AI Tooling",
+      "summary": "It ships 42 FFmpeg tools with a machine-readable contract and an MCP server. Local editing, with verification built in.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/ffmpeg-skill-brings-local-ffmpeg-editing-to-codi.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/ffmpeg-skill-brings-local-ffmpeg-editing-to-codi.jpg",
+      "durationSec": 35,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/kajisho5/ffmpeg-skill"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "claude|codex|ffmpeg",
+      "contextPack": {
+        "script": "Offline. This GitHub repo gives coding agents a local video editor. Local editing, with verification built in. It ships 42 FFmpeg tools with a machine-readable contract and an MCP server. Claude Code, Cursor and Codex can cut, caption, reframe, adjust loudness, and export for platforms. Quick start: npx ffmpeg-skill setup installs the skill and can install FFmpeg if needed. The README says its showcase includes a talk laid out with its slides and cut into a captioned short.",
+        "sourceUrl": "https://github.com/kajisho5/ffmpeg-skill",
+        "facts": [
+          "This GitHub repo gives coding agents a local video editor.",
+          "It includes local editing with verification built in.",
+          "It ships 42 FFmpeg tools with a machine-readable contract and an MCP server.",
+          "Claude Code, Cursor, and Codex can use it to cut, caption, reframe, adjust loudness, and export for platforms.",
+          "The README says its showcase includes a talk laid out with its slides and cut into a captioned short."
+        ],
+        "suggestions": [
+          "How does the built-in verification work in this local editor?",
+          "What kinds of video edits can coding agents make with the FFmpeg tools?",
+          "What does the setup command install, and can it install FFmpeg too?"
+        ],
+        "density": 0.324,
+        "quiz": {
+          "question": "Which command does the script say can install the skill?",
+          "choices": [
+            "npx ffmpeg-skill setup",
+            "npm install ffmpeg-skill",
+            "ffmpeg-skill start",
+            "npx setup ffmpeg"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-crowdstrike-ceo-companies-are-choosing-between-g",
+      "title": "CrowdStrike CEO: Companies are choosing between getting hacked and shutting down",
+      "topic": "AI Security",
+      "summary": "Over the past week, Microsoft systems and air traffic systems went down. Slowing down the frontier labs won’t slow down attackers.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/crowdstrike-ceo-companies-are-choosing-between-g.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/crowdstrike-ceo-companies-are-choosing-between-g.jpg",
+      "durationSec": 30,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "companies|crowdstrike",
+      "contextPack": {
+        "script": "Breach. Companies are choosing between getting hacked and shutting down. Slowing down the frontier labs won’t slow down attackers. Over the past week, Microsoft systems and air traffic systems went down. George Kurtz says the AI conspiracy theories miss the bigger issue: patching is outpacing response. He says AI agents can turn a patch into a working exploit within an hour. CEOs are now taking services offline rather than risk being hacked.",
+        "sourceUrl": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "facts": [
+          "The script says companies are choosing between getting hacked and shutting down.",
+          "It says slowing down frontier labs will not slow down attackers.",
+          "Over the past week, Microsoft systems and air traffic systems went down.",
+          "George Kurtz says the bigger issue is that patching is outpacing response.",
+          "He says AI agents can turn a patch into a working exploit within an hour, and CEOs are taking services offline to avoid being hacked."
+        ],
+        "suggestions": [
+          "Why does the script say patching is outpacing response?",
+          "How can AI agents turn a patch into a working exploit so fast?",
+          "Why are CEOs taking services offline instead of risking a hack?"
+        ],
+        "density": 0.272,
+        "quiz": {
+          "question": "According to George Kurtz in the script, what can AI agents do within an hour?",
+          "choices": [
+            "Turn a patch into a working exploit",
+            "Stop attackers from using new software",
+            "Repair Microsoft systems and air traffic systems",
+            "Slow down frontier labs"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-blender-ai-mcp-addon-brings-ai-assistant-and-mcp",
+      "title": "blender-ai-mcp-addon brings AI assistant and MCP server to Blender",
+      "topic": "AI for Blender",
+      "summary": "The repo is blender-ai-mcp-addon, with 2,740 GitHub stars. It pairs chat, scene tools, and MCP integration for Blender. A Blender addon for chat, scene tools, and workflows.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/blender-ai-mcp-addon-brings-ai-assistant-and-mcp.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/blender-ai-mcp-addon-brings-ai-assistant-and-mcp.jpg",
+      "durationSec": 47,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "ai|blender|chatgpt|claude|gemini|mcp",
+      "contextPack": {
+        "script": "Workspace. Blender gets a visual AI assistant for scene edits and multi-step workflows. A Blender addon for chat, scene tools, and workflows. The repo is blender-ai-mcp-addon, with 2,740 GitHub stars. It pairs chat, scene tools, and MCP integration for Blender. It works with ChatGPT/GPT, Claude, Gemini, Ollama, and OpenCode. Developers can connect AI tools directly to Blender. The README says you can inspect a scene, create a product-display layout, and assign materials. It also previews results in the viewport. Try it for a simple product-display scene with a pedestal, a camera, and three lights. The README also suggests finding an appropriate Poly Haven asset.",
+        "sourceUrl": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "facts": [
+          "Blender gets a visual AI assistant for scene edits and multi-step workflows.",
+          "The repo is called blender-ai-mcp-addon and has 2,740 GitHub stars.",
+          "It pairs chat, scene tools, and MCP integration for Blender and works with ChatGPT/GPT, Claude, Gemini, Ollama, and OpenCode.",
+          "The README says you can inspect a scene, create a product-display layout, assign materials, and preview results in the viewport.",
+          "It suggests trying a simple product-display scene with a pedestal, a camera, three lights, and an appropriate Poly Haven asset."
+        ],
+        "suggestions": [
+          "How does the addon connect AI tools directly to Blender?",
+          "What kinds of scene edits can the README demonstrate?",
+          "Which AI models or tools does the addon support?"
+        ],
+        "density": 0.546,
+        "quiz": {
+          "question": "According to the script, what can the Blender addon preview?",
+          "choices": [
+            "Results in the viewport",
+            "Only rendered still images",
+            "A text-only scene report",
+            "External web pages"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-these-tech-outages-are-giving-y2k-ai-agent-style",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "topic": "AI Outages",
+      "summary": "Apple Pay, NASA, and Microsoft all hit outages within two weeks. The rushed mix of legacy and modern systems is breaking things.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/these-tech-outages-are-giving-y2k-ai-agent-style.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/these-tech-outages-are-giving-y2k-ai-agent-style.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+      },
+      "date": "2026-11-19",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "ai|these|y2k",
+      "contextPack": {
+        "script": "Outages. U.S. systems are failing fast, and some say AI may be part of it. The rushed mix of legacy and modern systems is breaking things. Apple Pay, NASA, and Microsoft all hit outages within two weeks. The FAA grounded all flights for hours, only the third time since 9/11. Officials say the outages don’t seem related; companies say tech issues, not cyberattacks. Dave DeWalt says AI is surfacing vulnerabilities at speed and scale; Anusha Iyer says legacy systems were never designed for this.",
+        "sourceUrl": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "facts": [
+          "U.S. systems are failing fast, and some people say AI may be part of the problem.",
+          "The rushed mix of legacy and modern systems is breaking things.",
+          "Apple Pay, NASA, and Microsoft all hit outages within two weeks.",
+          "The FAA grounded all flights for hours, only the third time since 9/11.",
+          "Officials say the outages do not seem related, and companies say they are tech issues rather than cyberattacks."
+        ],
+        "suggestions": [
+          "How could AI be surfacing vulnerabilities so quickly?",
+          "Why are legacy systems struggling with modern tech?",
+          "What made the FAA outage unusual compared with past events?"
+        ],
+        "density": 0.344,
+        "quiz": {
+          "question": "What do officials and companies say caused the outages?",
+          "choices": [
+            "Tech issues, not cyberattacks",
+            "A single coordinated cyberattack",
+            "Power failures from a nationwide blackout",
+            "A problem only with Apple Pay"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-anthropic-skills-public-repository-for-agent-ski",
+      "title": "anthropic/skills: Public repository for Agent Skills",
+      "topic": "Agent Skills",
+      "summary": "The repository has 198,779 stars on GitHub. It is Anthropic’s implementation of skills for Claude. A public blueprint for building and using Agent Skills.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/anthropic-skills-public-repository-for-agent-ski.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/anthropic-skills-public-repository-for-agent-ski.jpg",
+      "durationSec": 42,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/anthropics/skills"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "claude|public|skills",
+      "contextPack": {
+        "script": "Skills. Anthropic’s repo shows how Claude loads instructions dynamically. A public blueprint for building and using Agent Skills. The repository has 198,779 stars on GitHub. It is Anthropic’s implementation of skills for Claude. Skills are folders of instructions, scripts, and resources. They help Claude do specialized tasks repeatedly. The repo includes skills for creative, technical, and enterprise workflows. It also includes docx, pdf, pptx, and xlsx skills. A Show HN post titled “Show HN: Flashcards to learn AWS skills” is one example from the fun-thing list.",
+        "sourceUrl": "https://github.com/anthropics/skills",
+        "facts": [
+          "Anthropic’s repo shows how Claude loads instructions dynamically.",
+          "It is a public blueprint for building and using Agent Skills.",
+          "The repository has 198,779 stars on GitHub.",
+          "Skills are folders of instructions, scripts, and resources that help Claude do specialized tasks repeatedly.",
+          "The repo includes skills for creative, technical, and enterprise workflows, plus docx, pdf, pptx, and xlsx skills."
+        ],
+        "suggestions": [
+          "How do Agent Skills help Claude repeat specialized tasks?",
+          "What kinds of workflows are covered in the repository?",
+          "What file types does the skills repo include?"
+        ],
+        "density": 0.636,
+        "quiz": {
+          "question": "What are Skills in Anthropic’s repository?",
+          "choices": [
+            "Folders of instructions, scripts, and resources",
+            "A list of model weights and benchmarks",
+            "A set of chat prompts only",
+            "A training dataset for image generation"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-obra-superpowers-agentic-skills-framework-for-co",
+      "title": "obra/superpowers: agentic skills framework for coding agents",
+      "topic": "AI Development",
+      "summary": "It has 323,850 stars, and gained 785 stars today on GitHub Trending. A workflow framework for coding agents.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/obra-superpowers-agentic-skills-framework-for-co.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/obra-superpowers-agentic-skills-framework-for-co.jpg",
+      "durationSec": 37,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/obra/superpowers"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Superpowers. This GitHub project turns coding agents into a full software workflow. A workflow framework for coding agents. It has 323,850 stars, and gained 785 stars today on GitHub Trending. The README says it uses composable skills and initial instructions to guide your agent. It starts with brainstorming, then planning, testing, review, and finishing a branch. A Show HN post titled \"Show HN: Neptune – Give your coding agents DevOps superpowers\" points to a similar use case.",
+        "sourceUrl": "https://github.com/obra/superpowers",
+        "facts": [
+          "Superpowers is a GitHub project that turns coding agents into a full software workflow.",
+          "It is described as a workflow framework for coding agents.",
+          "The project has 323,850 stars and gained 785 stars today on GitHub Trending.",
+          "The README says it uses composable skills and initial instructions to guide the agent.",
+          "Its workflow starts with brainstorming, then planning, testing, review, and finishing a branch."
+        ],
+        "suggestions": [
+          "How do composable skills help a coding agent follow a workflow?",
+          "What happens in the brainstorming-to-branch process?",
+          "Why did this project gain so many stars today?"
+        ],
+        "density": 0.375,
+        "quiz": {
+          "question": "What is the order of the workflow described in the script?",
+          "choices": [
+            "Brainstorming, planning, testing, review, and finishing a branch",
+            "Planning, brainstorming, review, testing, and finishing a branch",
+            "Brainstorming, testing, planning, review, and finishing a branch",
+            "Review, planning, brainstorming, testing, and finishing a branch"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-microsoft-ceo-satya-nadella-explains-why-he-aske",
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "topic": "AI Strategy",
