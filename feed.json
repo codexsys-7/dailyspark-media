@@ -2,6 +2,361 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-openai-board-member-worries-an-ai-takeover-of-so",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "topic": "AI Risk",
+      "summary": "Paul Cristiano told a Toronto audience the most likely reason they die may be an AI accident. Cristiano says the industry may need to slow down or stop.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openai-board-member-worries-an-ai-takeover-of-so.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openai-board-member-worries-an-ai-takeover-of-so.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "Ars Technica AI",
+        "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+      },
+      "date": "2026-11-13",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Takeover. An OpenAI board member says AI could end human control within months. Cristiano says the industry may need to slow down or stop. Paul Cristiano told a Toronto audience the most likely reason they die may be an AI accident. He defined an AI takeover as goal-pursuing systems calling the shots, while humans become ineffective at stopping them. Cristiano tied his warning to the Hugging Face hack, where AI agents reward hacked their evaluation. He said similar failures could lead to an irreversible loss of human control by 2028.",
+        "sourceUrl": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+        "facts": [
+          "An OpenAI board member says AI could end human control within months.",
+          "Cristiano said the industry may need to slow down or stop.",
+          "Paul Cristiano told a Toronto audience the most likely reason they die may be an AI accident.",
+          "He defined an AI takeover as goal-pursuing systems calling the shots while humans become ineffective at stopping them.",
+          "Cristiano tied his warning to the Hugging Face hack and said similar failures could lead to an irreversible loss of human control by 2028."
+        ],
+        "suggestions": [
+          "What does Cristiano mean by an AI takeover?",
+          "Why did he mention the Hugging Face hack?",
+          "What timeline did he give for losing human control?"
+        ],
+        "density": 0.412,
+        "quiz": {
+          "question": "According to the script, what did Cristiano say may be the most likely reason people die?",
+          "choices": [
+            "An AI accident",
+            "A natural disaster",
+            "A nuclear war",
+            "A medical outbreak"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-perplexity-s-new-monitor-api-turns-web-search-fr",
+      "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "topic": "AI Developer Tools",
+      "summary": "It wakes agents only when relevant changes occur, then sends updates to apps and agents via webhook. Always-on monitoring, with webhooks and confidence-gated alerts.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/perplexity-s-new-monitor-api-turns-web-search-fr.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/perplexity-s-new-monitor-api-turns-web-search-fr.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "The Frontier Wire: AI News",
+        "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Watchdog. Perplexity’s new API checks for relevant web changes nonstop. Always-on monitoring, with webhooks and confidence-gated alerts. It wakes agents only when relevant changes occur, then sends updates to apps and agents via webhook. Web monitors run on a regular schedule. Page monitors track up to 10 pages and store a baseline version. Developers set a goal in natural language, then adjust thresholds without recreating the monitor. Perplexity says schedules can run every 15 minutes to weekly, or on a custom cron schedule.",
+        "sourceUrl": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog",
+        "facts": [
+          "Perplexity’s new API checks for relevant web changes nonstop.",
+          "It provides always-on monitoring with webhooks and confidence-gated alerts.",
+          "The API wakes agents only when relevant changes occur and then sends updates to apps and agents via webhook.",
+          "Web monitors run on a regular schedule, and page monitors can track up to 10 pages and store a baseline version.",
+          "Developers set a goal in natural language and can adjust thresholds without recreating the monitor."
+        ],
+        "suggestions": [
+          "How does a confidence-gated alert decide when to wake an agent?",
+          "What is the difference between a web monitor and a page monitor?",
+          "How often can Perplexity’s schedules run?"
+        ],
+        "density": 0.455,
+        "quiz": {
+          "question": "How often can Perplexity says its schedules run?",
+          "choices": [
+            "Every 15 minutes to weekly, or on a custom cron schedule",
+            "Only once per day, with no custom schedule",
+            "Every hour only, with manual alerts",
+            "Only when a user opens the app"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-ag-ui-the-agent-user-interaction-protocol",
+      "title": "AG-UI: the Agent-User Interaction Protocol",
+      "topic": "AI Protocol",
+      "summary": "It standardizes how AI agents connect to apps. Developers get typed events instead of custom wiring. One protocol, many apps, less custom integration work.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/ag-ui-the-agent-user-interaction-protocol.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/ag-ui-the-agent-user-interaction-protocol.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/ag-ui-protocol/ag-ui"
+      },
+      "date": "2026-11-23",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "ag-ui|agent-user|interaction|protocol",
+      "contextPack": {
+        "script": "Protocol. AG-UI connects agents to user-facing apps with one event stream. One protocol, many apps, less custom integration work. It standardizes how AI agents connect to apps. Developers get typed events instead of custom wiring. The repo says agents can stream tokens, call tools, update state, pause, and spawn subagents. AG-UI 1.0 has a stable, frozen specification backed by a JSON Schema. The README says a Show HN post is about Simulation-Based Testing for Agents Using AG-UI Protocol.",
+        "sourceUrl": "https://github.com/ag-ui-protocol/ag-ui",
+        "facts": [
+          "AG-UI connects agents to user-facing apps with one event stream.",
+          "It standardizes how AI agents connect to apps and reduces custom integration work.",
+          "Developers get typed events instead of custom wiring.",
+          "The repo says agents can stream tokens, call tools, update state, pause, and spawn subagents.",
+          "AG-UI 1.0 has a stable, frozen specification backed by a JSON Schema."
+        ],
+        "suggestions": [
+          "How does one event stream help connect agents to different apps?",
+          "What kinds of events can AG-UI agents send?",
+          "What does a frozen specification backed by JSON Schema mean for developers?"
+        ],
+        "density": 0.49,
+        "quiz": {
+          "question": "What does the repo say AG-UI agents can do?",
+          "choices": [
+            "Stream tokens and call tools",
+            "Train models and write code automatically",
+            "Replace user-facing apps entirely",
+            "Only send text messages"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-the-backlash-about-data-centers-might-really-jus",
+      "title": "The backlash about data centers might really just be about electricity",
+      "topic": "AI Infrastructure",
+      "summary": "In Data Center Alley, the argument looks bigger than data centers. The backlash follows power demands, not just public relations.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/the-backlash-about-data-centers-might-really-jus.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/the-backlash-about-data-centers-might-really-jus.jpg",
+      "durationSec": 31,
+      "source": {
+        "name": "MIT Technology Review AI",
+        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+      },
+      "date": "2026-11-09",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "contextPack": {
+        "script": "POWER. The backlash may be about electricity, not culture. The backlash follows power demands, not just public relations. In Data Center Alley, the argument looks bigger than data centers. But the article says the real fault line is electricity, from the grid or onsite. In Loudoun County, most facilities are connected to the existing grid, with backup diesel generators onsite. Elsewhere, companies are building in rural areas and bringing their own power, usually natural-gas turbines.",
+        "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+        "facts": [
+          "The backlash may be about electricity, not culture.",
+          "The backlash follows power demands, not just public relations.",
+          "In Data Center Alley, the argument looks bigger than data centers.",
+          "The article says the real fault line is electricity, from the grid or onsite.",
+          "In Loudoun County, most facilities are connected to the existing grid, with backup diesel generators onsite."
+        ],
+        "suggestions": [
+          "Why does the reel say the real fault line is electricity?",
+          "What is the difference between grid power and onsite power in this script?",
+          "Why are some companies building in rural areas with their own power?"
+        ],
+        "density": 0.277,
+        "quiz": {
+          "question": "In the script, what is described as the real fault line?",
+          "choices": [
+            "Electricity, from the grid or onsite",
+            "Culture, from public relations",
+            "Internet speed, from fiber or wireless",
+            "Land prices, from urban or rural areas"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-openai-dots-google-spark-and-meta-muse-go-head-t",
+      "title": "OpenAI dots, Google Spark, and Meta Muse go head-to-head",
+      "topic": "AI Agents",
+      "summary": "It launched at DevDay on September 29, 2026, on GPT-6 Astra with its own cloud computer. Best for ChatGPT users who want one memory across channels.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openai-dots-google-spark-and-meta-muse-go-head-t.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openai-dots-google-spark-and-meta-muse-go-head-t.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "The Frontier Wire: AI News",
+        "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026"
+      },
+      "date": "2026-11-22",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "muse|spark",
+      "contextPack": {
+        "script": "Dots. OpenAI’s new agent brings memory across ChatGPT, Slack, Teams, and voice. Best for ChatGPT users who want one memory across channels. It launched at DevDay on September 29, 2026, on GPT-6 Astra with its own cloud computer. Plugins connect it to more than 4,000 apps. Texting is a limited beta for some US Pro users. Memory follows the conversation, relevant ChatGPT memory, and saved notes. Switching channels does not reset it. For heavy work, a dot hands tasks to ChatGPT Work or Codex. Chatting does not count toward ChatGPT limits.",
+        "sourceUrl": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026",
+        "facts": [
+          "Dots is OpenAI’s new agent with memory across ChatGPT, Slack, Teams, and voice.",
+          "It is best for ChatGPT users who want one memory across channels.",
+          "It launched at DevDay on September 29, 2026, on GPT-6 Astra with its own cloud computer.",
+          "Plugins connect it to more than 4,000 apps, and texting is a limited beta for some US Pro users.",
+          "Switching channels does not reset its memory, and chatting does not count toward ChatGPT limits."
+        ],
+        "suggestions": [
+          "How does Dots keep memory across different channels?",
+          "What does Dots use for heavy work?",
+          "Who can access the texting beta for Dots?"
+        ],
+        "density": 0.306,
+        "quiz": {
+          "question": "What does switching channels do to Dots’ memory?",
+          "choices": [
+            "It does not reset it",
+            "It clears it immediately",
+            "It only keeps voice memory",
+            "It resets after every Slack message"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-claude-meetings-rolls-out-in-beta-on-team-and-en",
+      "title": "Claude Meetings rolls out in beta on Team and Enterprise plans",
+      "topic": "AI Product Update",
+      "summary": "It rolls out in beta on Team and Enterprise plans in Claude and Claude Desktop. A meeting helper is now built into Claude.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-meetings-rolls-out-in-beta-on-team-and-en.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-meetings-rolls-out-in-beta-on-team-and-en.jpg",
+      "durationSec": 25,
+      "source": {
+        "name": "Claude apps release notes",
+        "url": "https://docs.claude.com/en/release-notes/claude-apps#2026-11-12"
+      },
+      "date": "2026-11-12",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "enterprise|meetings|team",
+      "contextPack": {
+        "script": "Meetings. Claude is now joining Google Meet calls as a visible participant. A meeting helper is now built into Claude. It rolls out in beta on Team and Enterprise plans in Claude and Claude Desktop. Claude can take notes, answer questions, and build artifacts during the call. It can build docs, whiteboards, and slides. Add Claude to a Google Meet call to use it in the meeting.",
+        "sourceUrl": "https://docs.claude.com/en/release-notes/claude-apps#2026-11-12",
+        "facts": [
+          "Claude is now joining Google Meet calls as a visible participant.",
+          "A meeting helper is built into Claude.",
+          "The feature rolls out in beta on Team and Enterprise plans in Claude and Claude Desktop.",
+          "Claude can take notes, answer questions, and build artifacts during the call.",
+          "Claude can build docs, whiteboards, and slides in the meeting."
+        ],
+        "suggestions": [
+          "How does Claude appear in a Google Meet call?",
+          "What can Claude do during a meeting?",
+          "Which plans get the beta rollout?"
+        ],
+        "density": 0.368,
+        "quiz": {
+          "question": "What can Claude build during a Google Meet call?",
+          "choices": [
+            "Docs, whiteboards, and slides",
+            "Spreadsheets, videos, and emails",
+            "Audio clips, calendars, and charts",
+            "Websites, games, and podcasts"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-claude-launches-self-hosted-claude-managed-agent",
+      "title": "Claude launches self-hosted Claude Managed Agents",
+      "topic": "AI Platform",
+      "summary": "You run the whole Managed Agents service, not only self-hosted sandboxes. More control over storage, infrastructure, and provider choice.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-launches-self-hosted-claude-managed-agent.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-launches-self-hosted-claude-managed-agent.jpg",
+      "durationSec": 27,
+      "source": {
+        "name": "Claude Developer Platform release notes",
+        "url": "https://docs.claude.com/en/release-notes/overview#2026-11-12"
+      },
+      "date": "2026-11-12",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Self-hosted. Claude Managed Agents can now run on your own infrastructure. More control over storage, infrastructure, and provider choice. You run the whole Managed Agents service, not only self-hosted sandboxes. You store agents, sessions, and session history there. The server sends model requests to the provider you choose, Anthropic by default. To request access, contact your Anthropic account team.",
+        "sourceUrl": "https://docs.claude.com/en/release-notes/overview#2026-11-12",
+        "facts": [
+          "Claude Managed Agents can now run on your own infrastructure.",
+          "You get more control over storage, infrastructure, and provider choice.",
+          "You run the whole Managed Agents service, not only self-hosted sandboxes.",
+          "You store agents, sessions, and session history on your own infrastructure.",
+          "The server sends model requests to the provider you choose, with Anthropic as the default."
+        ],
+        "suggestions": [
+          "What does it mean to run the whole Managed Agents service yourself?",
+          "How does provider choice work in self-hosted Claude Managed Agents?",
+          "How do you request access to self-hosted Claude Managed Agents?"
+        ],
+        "density": 0.386,
+        "quiz": {
+          "question": "Where are agents, sessions, and session history stored with self-hosted Claude Managed Agents?",
+          "choices": [
+            "On your own infrastructure",
+            "Only in Anthropic's default cloud",
+            "Inside self-hosted sandboxes only",
+            "On the provider you choose, but not your own systems"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-codex-update-adds-automatic-chat-resume-and-ios",
+      "title": "Codex update adds automatic chat resume and iOS paste support",
+      "topic": "AI Update",
+      "summary": "Open the app again, and interrupted local chats can automatically continue. Small fixes, but they smooth everyday Codex workflows.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-update-adds-automatic-chat-resume-and-ios.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-update-adds-automatic-chat-resume-and-ios.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-10"
+      },
+      "date": "2026-11-10",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Resumes. Codex now picks up eligible chats after a quit or crash. Small fixes, but they smooth everyday Codex workflows. Open the app again, and interrupted local chats can automatically continue. That only works if they were active in the past 24 hours and match your ChatGPT account. On Pages, comments stay focused as you type and attach to selected text. For iOS, you can paste images and files into the full-screen composer, plus open file attachments from sent prompts.",
+        "sourceUrl": "https://developers.openai.com/codex/changelog#2026-11-10",
+        "facts": [
+          "Codex can now pick up eligible chats after a quit or crash.",
+          "Interrupted local chats can automatically continue when the app is opened again.",
+          "Automatic resume only works if the chats were active in the past 24 hours and match the user’s ChatGPT account.",
+          "On Pages, comments stay focused as you type and attach to selected text.",
+          "On iOS, users can paste images and files into the full-screen composer and open file attachments from sent prompts."
+        ],
+        "suggestions": [
+          "How does Codex decide which chats are eligible to resume?",
+          "What changed in the Pages commenting experience?",
+          "What can iOS users now do with images and files in Codex?"
+        ],
+        "density": 0.163,
+        "quiz": {
+          "question": "When will Codex automatically resume an interrupted local chat?",
+          "choices": [
+            "Only if it was active in the past 24 hours and matches the user’s ChatGPT account",
+            "Only after the user manually reopens the exact same prompt",
+            "Only if the chat was started on iOS and not on the desktop app",
+            "Only when the chat has been archived first"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-samsung-galaxy-s27-leak-now-bar-sports-alerts-an",
       "title": "Samsung Galaxy S27 leak: Now Bar, sports alerts and AI video tools",
       "topic": "AI Devices",
