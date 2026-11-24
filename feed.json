@@ -2,6 +2,493 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-avicena-raises-100m-to-link-ai-chips-with-microl",
+      "title": "Avicena raises $100M to link AI chips with microLEDs instead of lasers",
+      "topic": "AI Hardware",
+      "summary": "Kevin Pope succeeds Marco Chisari as chief executive. He’ll lead Avicena as its first product reaches market next year. Avicena is betting microLED links can replace lasers for AI systems.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/avicena-raises-100m-to-link-ai-chips-with-microl.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/avicena-raises-100m-to-link-ai-chips-with-microl.jpg",
+      "durationSec": 46,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Funding. Avicena just raised more than $100M to move AI data without lasers. Avicena is betting microLED links can replace lasers for AI systems. Kevin Pope succeeds Marco Chisari as chief executive. He’ll lead Avicena as its first product reaches market next year. InterVest led the Series C round. Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund and AMD Ventures also joined. LightBundle uses dense arrays of microLEDs and silicon photodetectors with multicore fibre. Avicena says that reduces conversion and signal processing. The company began shipping 1Tbps evaluation kits in August. Money from the round goes to hiring, product development and engineering.",
+        "sourceUrl": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+        "facts": [
+          "Avicena raised more than $100 million to move AI data without lasers.",
+          "The company is betting microLED links can replace lasers for AI systems.",
+          "Kevin Pope succeeds Marco Chisari as chief executive and will lead Avicena as its first product reaches market next year.",
+          "InterVest led the Series C round, with Tiger Global, Cerberus Capital Management, SK hynix Ventures, Samsung Catalyst Fund and AMD Ventures also joining.",
+          "Avicena says its LightBundle system uses dense arrays of microLEDs and silicon photodetectors with multicore fibre, and the company began shipping 1Tbps evaluation kits in August."
+        ],
+        "suggestions": [
+          "How do microLED links compare with lasers for AI systems?",
+          "What does Avicena’s LightBundle system actually do?",
+          "Why are investors backing Avicena’s optical interconnects?"
+        ],
+        "density": 0.435,
+        "quiz": {
+          "question": "Who led Avicena’s Series C round?",
+          "choices": [
+            "InterVest",
+            "Tiger Global",
+            "AMD Ventures",
+            "Samsung Catalyst Fund"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-claude-opus-4-5-deprecated-efs-launches-in-beta",
+      "title": "Claude Opus 4.5 deprecated; EFS launches in beta",
+      "topic": "AI Platform Update",
+      "summary": "Anthropic announced deprecation of Claude Opus 4.5, with retirement on the Claude API scheduled for January 22, 2027. Migrate to Claude Opus 5.5 and review EFS eligibility.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-opus-4-5-deprecated-efs-launches-in-beta.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-opus-4-5-deprecated-efs-launches-in-beta.jpg",
+      "durationSec": 45,
+      "source": {
+        "name": "Claude Developer Platform release notes",
+        "url": "https://docs.claude.com/en/release-notes/overview#2026-11-23"
+      },
+      "date": "2026-11-23",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "claude-opus-4.5|efs",
+      "contextPack": {
+        "script": "Deprecated. Claude Opus 4.5 is on the way out, and EFS just arrived. Migrate to Claude Opus 5.5 and review EFS eligibility. Anthropic announced deprecation of Claude Opus 4.5, with retirement on the Claude API scheduled for January 22, 2027. It recommends migrating to Claude Opus 5.5. To check other platforms, see Model deprecations. Enterprise Frontier Safeguards, or EFS, is now in beta on Claude Platform, Claude Platform on AWS, and Claude Models on Google Cloud. For eligible organizations, EFS is Zero Data Retention. Anthropic doesn’t retain prompts and responses; encrypted copies go to your own cloud account.",
+        "sourceUrl": "https://docs.claude.com/en/release-notes/overview#2026-11-23",
+        "facts": [
+          "Anthropic announced deprecation of Claude Opus 4.5.",
+          "Claude Opus 4.5 is scheduled for retirement on the Claude API on January 22, 2027.",
+          "Anthropic recommends migrating to Claude Opus 5.5.",
+          "Enterprise Frontier Safeguards, or EFS, is now in beta on Claude Platform, Claude Platform on AWS, and Claude Models on Google Cloud.",
+          "For eligible organizations, EFS is Zero Data Retention and Anthropic does not retain prompts and responses."
+        ],
+        "suggestions": [
+          "Which platforms has EFS launched in beta on?",
+          "What does Anthropic recommend instead of Claude Opus 4.5?",
+          "What does Zero Data Retention mean for eligible organizations?"
+        ],
+        "density": 0.856,
+        "quiz": {
+          "question": "When is Claude Opus 4.5 scheduled for retirement on the Claude API?",
+          "choices": [
+            "January 22, 2027",
+            "November 23, 2026",
+            "January 22, 2026",
+            "In beta now"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-autoclip-turns-long-videos-into-ready-to-post-cl",
+      "title": "AutoClip turns long videos into ready-to-post clips",
+      "topic": "AI Video Tools",
+      "summary": "It’s an open-source, Python GitHub repo for AI video clipping and content repurposing. Open-source, local-first clipping for podcasts, interviews, and streams.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/autoclip-turns-long-videos-into-ready-to-post-cl.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/autoclip-turns-long-videos-into-ready-to-post-cl.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/zhouxiaoka/autoclip"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "contextPack": {
+        "script": "AutoClip. A local-first editor turns links and streams into ready-to-post clips. Open-source, local-first clipping for podcasts, interviews, and streams. It’s an open-source, Python GitHub repo for AI video clipping and content repurposing. Developers star it for smart reframing, captions, covers, titles, and local rendering with no monthly fee. Drop in a link, local video, or live stream replay, then generate clips for TikTok, Shorts, Reels, YouTube, Douyin, Xiaohongshu, and Bilibili. The README’s showcase lists Bill Gates, AI Experts Debate, and MrBeast clips rendered by AutoClip.",
+        "sourceUrl": "https://github.com/zhouxiaoka/autoclip",
+        "facts": [
+          "AutoClip is a local-first editor that turns links and streams into ready-to-post clips.",
+          "It is an open-source Python GitHub repo for AI video clipping and content repurposing.",
+          "The script says it supports smart reframing, captions, covers, titles, and local rendering with no monthly fee.",
+          "You can drop in a link, local video, or live stream replay and generate clips for TikTok, Shorts, Reels, YouTube, Douyin, Xiaohongshu, and Bilibili.",
+          "The README’s showcase lists Bill Gates, AI Experts Debate, and MrBeast clips rendered by AutoClip."
+        ],
+        "suggestions": [
+          "How does AutoClip create clips locally without a monthly fee?",
+          "What kinds of videos can AutoClip turn into social clips?",
+          "Which platforms can AutoClip export clips for?"
+        ],
+        "density": 0.438,
+        "quiz": {
+          "question": "Which platforms are listed as destinations for AutoClip clips?",
+          "choices": [
+            "TikTok, Shorts, Reels, YouTube, Douyin, Xiaohongshu, and Bilibili",
+            "Instagram, Vimeo, Twitch, and Facebook",
+            "Netflix, Hulu, Disney+, and Prime Video",
+            "LinkedIn, Threads, Reddit, and Pinterest"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-openai-published-its-ai-progress-meter-to-encour",
+      "title": "OpenAI published its AI progress meter to encourage a slowdown. It won’t work",
+      "topic": "AI Progress Metrics",
+      "summary": "Jakub Pachocki says OpenAI wants frontier AI labs to share comparable progress numbers. OpenAI wants speed limits, but rivals haven’t agreed.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openai-published-its-ai-progress-meter-to-encour.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openai-published-its-ai-progress-meter-to-encour.jpg",
+      "durationSec": 30,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.fastcompany.com/91647985/openai-published-its-ai-progress-meter-to-encourage-a-slowdown-it-wont-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Slowdown. OpenAI just published numbers it hopes will cool the race. OpenAI wants speed limits, but rivals haven’t agreed. Jakub Pachocki says OpenAI wants frontier AI labs to share comparable progress numbers. The goal is a common basis for monitoring — and possibly coordinating a slowdown. OpenAI says its progress score improved more in 2026 than in the previous three years combined. Anthropic and Google DeepMind have not signaled willingness to sign on.",
+        "sourceUrl": "https://www.fastcompany.com/91647985/openai-published-its-ai-progress-meter-to-encourage-a-slowdown-it-wont-work?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+        "facts": [
+          "OpenAI published numbers it hopes will cool the race.",
+          "OpenAI wants frontier AI labs to share comparable progress numbers.",
+          "The goal is a common basis for monitoring and possibly coordinating a slowdown.",
+          "OpenAI says its progress score improved more in 2026 than in the previous three years combined.",
+          "Anthropic and Google DeepMind have not signaled willingness to sign on."
+        ],
+        "suggestions": [
+          "Why does OpenAI want frontier AI labs to share progress numbers?",
+          "What is the purpose of a common basis for monitoring?",
+          "Which other AI labs have not signaled willingness to sign on?"
+        ],
+        "density": 0.511,
+        "quiz": {
+          "question": "According to the script, what does OpenAI want frontier AI labs to share?",
+          "choices": [
+            "Comparable progress numbers",
+            "Private model weights",
+            "User data reports",
+            "Hardware purchase plans"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-codex-app-26-1120-adds-csv-preview-and-source-ed",
+      "title": "Codex app 26.1120 adds CSV preview and source editing",
+      "topic": "AI Update",
+      "summary": "Open a CSV file to preview it as a table. Small update, but it smooths editing and preview workflows.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-app-26-1120-adds-csv-preview-and-source-ed.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-app-26-1120-adds-csv-preview-and-source-ed.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-23"
+      },
+      "date": "2026-11-23",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Updated. Codex app 26.1120 adds a table preview for CSV files. Small update, but it smooths editing and preview workflows. Open a CSV file to preview it as a table. Select View source to edit it in the same tab. When you open another Markdown file, the editor remembers whether you last used source or preview. On Windows, branch reviews now count changed files and lines correctly when many files have long paths. It also fixes some HTML files with large embedded images or videos not opening in preview.",
+        "sourceUrl": "https://developers.openai.com/codex/changelog#2026-11-23",
+        "facts": [
+          "Codex app 26.1120 adds a table preview for CSV files.",
+          "You can open a CSV file to preview it as a table.",
+          "Selecting View source lets you edit the file in the same tab.",
+          "The editor remembers whether you last used source or preview when you open another Markdown file.",
+          "On Windows, branch reviews now count changed files and lines correctly when many files have long paths."
+        ],
+        "suggestions": [
+          "How does the new CSV table preview change editing workflows?",
+          "What does View source do in the Codex app?",
+          "What Windows issue did this update fix for branch reviews?"
+        ],
+        "density": 0.246,
+        "quiz": {
+          "question": "What can you do after opening a CSV file in Codex app 26.1120?",
+          "choices": [
+            "Preview it as a table",
+            "Convert it into a Markdown file",
+            "Export it as a PDF",
+            "Rename it automatically"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-fast-anything-helps-port-only-the-slow-5-to-rust",
+      "title": "fast-anything helps port only the slow 5% to Rust",
+      "topic": "AI Dev Tool",
+      "summary": "It profiles Python, Node or Ruby apps, then ports hot functions with your coding agent. Port less code. Keep behavior the same.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/fast-anything-helps-port-only-the-slow-5-to-rust.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/fast-anything-helps-port-only-the-slow-5-to-rust.jpg",
+      "durationSec": 35,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/EL4CTEO/fast-anything"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Speed. This repo rewrites only the slowest 5% of an app. Port less code. Keep behavior the same. It profiles Python, Node or Ruby apps, then ports hot functions with your coding agent. It proves the Rust port matches real recorded calls, then swaps it in. The README says it is fully reversible. One command, or step by step. `--agent` can use claude, codex, or any command that reads a prompt on stdin. Try it for the outermost loop, not the tiny inner function. The README says that can avoid millions of crossings into Rust.",
+        "sourceUrl": "https://github.com/EL4CTEO/fast-anything",
+        "facts": [
+          "The repo rewrites only the slowest 5% of an app.",
+          "It profiles Python, Node, or Ruby apps and then ports hot functions with a coding agent.",
+          "It proves the Rust port matches real recorded calls before swapping it in.",
+          "The README says the process is fully reversible and can be done in one command or step by step.",
+          "The README says to try it for the outermost loop, because that can avoid millions of crossings into Rust."
+        ],
+        "suggestions": [
+          "How does it decide which 5% of code is slowest?",
+          "What does it mean to prove the Rust port matches real recorded calls?",
+          "Why does the README recommend the outermost loop instead of a tiny inner function?"
+        ],
+        "density": 0.281,
+        "quiz": {
+          "question": "What does the repo focus on porting?",
+          "choices": [
+            "Only the slowest 5% of an app",
+            "The entire app at once",
+            "Only tiny inner functions",
+            "Only database code"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-nvidia-reverses-course-reinstating-jensen-huang",
+      "title": "Nvidia reverses course, reinstating Jensen Huang as CEO",
+      "topic": "AI Drama",
+      "summary": "The company reinstated him as chief executive, president and board director effective immediately. Nvidia reverses course, while an investigation and compliance review continue.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-reverses-course-reinstating-jensen-huang.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-reverses-course-reinstating-jensen-huang.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "The Frontier Wire: AI News",
+        "url": "https://siliconangle.com/2026/11/23/nvidia-reverses-course-reinstating-jensen-huang-as-ceo-president-and-director"
+      },
+      "date": "2026-11-23",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "huang|jensen",
+      "contextPack": {
+        "script": "Returned. Nvidia brings Jensen Huang back after nearly two weeks away. Nvidia reverses course, while an investigation and compliance review continue. The company reinstated him as chief executive, president and board director effective immediately. He had resigned amid a scandal involving multiple extramarital affairs, including with an Nvidia executive and a suspected Chinese spy. The board said it voted unanimously after discussions and was satisfied with his candor and ability to lead. Nvidia shares surged more than 31% today, after falling almost 33% after Huang admitted to the affair.",
+        "sourceUrl": "https://siliconangle.com/2026/11/23/nvidia-reverses-course-reinstating-jensen-huang-as-ceo-president-and-director",
+        "facts": [
+          "Nvidia brought Jensen Huang back after nearly two weeks away.",
+          "The company reinstated him as chief executive, president, and board director effective immediately.",
+          "An investigation and compliance review are continuing.",
+          "Huang had resigned amid a scandal involving multiple extramarital affairs, including with an Nvidia executive and a suspected Chinese spy.",
+          "The board said it voted unanimously and was satisfied with his candor and ability to lead."
+        ],
+        "suggestions": [
+          "Why did Nvidia bring Jensen Huang back so quickly?",
+          "What is still being investigated in this scandal?",
+          "How did Nvidia shares react after Huang returned?"
+        ],
+        "density": 0.305,
+        "quiz": {
+          "question": "What positions was Jensen Huang reinstated to effective immediately?",
+          "choices": [
+            "Chief executive, president, and board director",
+            "Chief financial officer, president, and board director",
+            "Chief executive, chairperson, and board director",
+            "Chief executive, president, and chief operating officer"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-anthropic-s-claude-ship-goes-beyond-ai-coding-to",
+      "title": "Anthropic’s Claude Ship goes beyond AI coding to let agents approve, push code: How it works",
+      "topic": "AI Coding",
+      "summary": "Claude Ship is designed to help developers ship code faster, Anthropic said Monday, November 23. Claude Ship moves from code review to code approval.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/anthropic-s-claude-ship-goes-beyond-ai-coding-to.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/anthropic-s-claude-ship-goes-beyond-ai-coding-to.jpg",
+      "durationSec": 38,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ship-ai-agents-beyond-coding-10976453/"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Ship. Anthropic’s new tool can review code, fix issues, and approve changes. Claude Ship moves from code review to code approval. Claude Ship is designed to help developers ship code faster, Anthropic said Monday, November 23. It has three parts: Code Review, PR Steward, and Claude Approvals. Code Review scans AI-generated or human-written code and flags problems. PR Steward resolves failed automated checks, merge conflicts, and gathers feedback. Claude Approvals can approve routine changes and add them to the main codebase, using human-set approval rules in a repository file.",
+        "sourceUrl": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ship-ai-agents-beyond-coding-10976453/",
+        "facts": [
+          "Anthropic’s Claude Ship can review code, fix issues, and approve changes.",
+          "Claude Ship is designed to help developers ship code faster.",
+          "It has three parts: Code Review, PR Steward, and Claude Approvals.",
+          "Code Review scans AI-generated or human-written code and flags problems.",
+          "Claude Approvals can approve routine changes and add them to the main codebase using human-set approval rules in a repository file."
+        ],
+        "suggestions": [
+          "How does Claude Ship decide which changes are routine enough to approve?",
+          "What does PR Steward do when automated checks fail or merge conflicts appear?",
+          "How is Claude Ship different from tools that only review code?"
+        ],
+        "density": 0.522,
+        "quiz": {
+          "question": "Which part of Claude Ship can approve routine changes and add them to the main codebase?",
+          "choices": [
+            "Claude Approvals",
+            "PR Steward",
+            "Code Review",
+            "Merge Checker"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-deepseek-harness-everything-is-a-plugin",
+      "title": "DeepSeek Harness: Everything is a Plugin",
+      "topic": "AI Tooling",
+      "summary": "It’s an open-source agent harness developed by DeepSeek AI. The repository is written in TypeScript and has 286,431 stars on GitHub. Open-source, plugin-based, and still moving fast.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/deepseek-harness-everything-is-a-plugin.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/deepseek-harness-everything-is-a-plugin.jpg",
+      "durationSec": 43,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/deepseek-ai/deepseek-harness"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "storyKey": "deepseek-harness|everything|harness|plugin",
+      "contextPack": {
+        "script": "Plugin. DeepSeek Harness brings an everything-is-a-plugin agent harness to developers. Open-source, plugin-based, and still moving fast. It’s an open-source agent harness developed by DeepSeek AI. The repository is written in TypeScript and has 286,431 stars on GitHub. Its design is built on an everything-is-a-plugin architecture and powered by Cordis. The README says it’s in developer preview and iterating rapidly, with compatibility-breaking changes ahead. Try it for a local launch: run from npm, and the Web UI starts at http://127.0.0.1:3080 by default.",
+        "sourceUrl": "https://github.com/deepseek-ai/deepseek-harness",
+        "facts": [
+          "DeepSeek Harness is an open-source agent harness developed by DeepSeek AI.",
+          "The repository is written in TypeScript and has 286,431 stars on GitHub.",
+          "Its design uses an everything-is-a-plugin architecture powered by Cordis.",
+          "The README says it is in developer preview and iterating rapidly, with compatibility-breaking changes ahead.",
+          "For a local launch, it can be run from npm and the Web UI starts at http://127.0.0.1:3080 by default."
+        ],
+        "suggestions": [
+          "What does an everything-is-a-plugin architecture mean in practice?",
+          "Why is DeepSeek Harness still considered developer preview?",
+          "How do you start the local Web UI for this project?"
+        ],
+        "density": 0.459,
+        "quiz": {
+          "question": "What architecture does DeepSeek Harness use?",
+          "choices": [
+            "An everything-is-a-plugin architecture",
+            "A serverless-only architecture",
+            "A database-first architecture",
+            "A monolithic desktop architecture"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-codex-cli-0-172-0-adds-thread-links-tab-completi",
+      "title": "Codex CLI 0.172.0 adds thread links, tab completion, and more",
+      "topic": "Codex CLI",
+      "summary": "Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. More terminal shortcuts, faster server startup, and better session handling.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-cli-0-172-0-adds-thread-links-tab-completi.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-cli-0-172-0-adds-thread-links-tab-completi.jpg",
+      "durationSec": 37,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-24"
+      },
+      "date": "2026-11-24",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Update. Codex CLI 0.172.0 adds easier navigation and faster command completion. More terminal shortcuts, faster server startup, and better session handling. Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. Press Tab to complete arguments for supported slash commands, like /mcp lo becoming /mcp login. Jump between task groups in the agent command center with Shift+Up and Shift+Down. Optional stdio MCP servers with cached tool lists now start on their first tool call by default.",
+        "sourceUrl": "https://developers.openai.com/codex/changelog#2026-11-24",
+        "facts": [
+          "Codex CLI 0.172.0 adds easier navigation and faster command completion.",
+          "The update includes more terminal shortcuts, faster server startup, and better session handling.",
+          "Users can follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal.",
+          "Pressing Tab completes arguments for supported slash commands, such as /mcp lo becoming /mcp login.",
+          "Optional stdio MCP servers with cached tool lists now start on their first tool call by default."
+        ],
+        "suggestions": [
+          "What are thread links used for in Codex CLI?",
+          "How does Tab completion work for slash commands in this update?",
+          "What changed about stdio MCP server startup?"
+        ],
+        "density": 0.36,
+        "quiz": {
+          "question": "What happens when you press Tab for supported slash commands in Codex CLI 0.172.0?",
+          "choices": [
+            "It completes arguments for the command",
+            "It opens saved conversations",
+            "It starts the server on launch",
+            "It switches between task groups"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "topic": "AI metrics",
+      "summary": "OpenAI says lower perplexity means better next-token predictions. OpenAI wants perplexity to become a shared AI benchmark.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/perplexity-and-intelligence.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/perplexity-and-intelligence.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/perplexity-and-intelligence"
+      },
+      "date": "2026-11-21",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Perplexity. OpenAI says this metric tracks progress on pretraining intelligence. OpenAI wants perplexity to become a shared AI benchmark. OpenAI says lower perplexity means better next-token predictions. GPT-3.5 was at ~0.99 and powered the original ChatGPT; GPT-4 was ~0.91. OpenAI says losses below 0.8 have brought new capabilities in cybersecurity and mathematics. The company argues developers should share perplexity standards and limits before crossing new thresholds.",
+        "sourceUrl": "https://openai.com/index/perplexity-and-intelligence",
+        "facts": [
+          "OpenAI says perplexity tracks progress on pretraining intelligence.",
+          "OpenAI wants perplexity to become a shared AI benchmark.",
+          "OpenAI says lower perplexity means better next-token predictions.",
+          "GPT-3.5 was at about 0.99 and powered the original ChatGPT, while GPT-4 was about 0.91.",
+          "OpenAI says losses below 0.8 have brought new capabilities in cybersecurity and mathematics."
+        ],
+        "suggestions": [
+          "What does perplexity measure in AI training?",
+          "Why does OpenAI want perplexity to be a shared benchmark?",
+          "What capabilities appeared when losses went below 0.8?"
+        ],
+        "density": 0.762,
+        "quiz": {
+          "question": "According to the script, what does lower perplexity mean?",
+          "choices": [
+            "Better next-token predictions",
+            "Faster internet access",
+            "More human-like voices",
+            "Higher training cost"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-openai-board-member-worries-an-ai-takeover-of-so",
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "topic": "AI Risk",
