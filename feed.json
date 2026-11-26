@@ -2,6 +2,407 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-statista-gave-up-most-of-its-35-million-monthly",
+      "title": "Statista gave up most of its 35 million monthly search users to keep its data away from AI",
+      "topic": "AI Data Access",
+      "summary": "AI crawlers started taking Statista’s data straight into chatbot answers, CEO Marc Berg said. Statista traded search reach for control of proprietary data.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/statista-gave-up-most-of-its-35-million-monthly.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/statista-gave-up-most-of-its-35-million-monthly.jpg",
+      "durationSec": 34,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://thenextweb.com/news/marc-berg-statista-ai-crawlers-data-tnw-podcast"
+      },
+      "date": "2026-11-26",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Blocked. Statista gave up traffic to keep its data out of chatbot answers. Statista traded search reach for control of proprietary data. AI crawlers started taking Statista’s data straight into chatbot answers, CEO Marc Berg said. Search traffic fell from about 35 million monthly active users to about 8 million. Statista moved almost everything behind a registration wall, even as robots.txt did not stop all players. Now it sells access through Statista Connect, and usage is growing 25 to 30 times year over year.",
+        "sourceUrl": "https://thenextweb.com/news/marc-berg-statista-ai-crawlers-data-tnw-podcast",
+        "facts": [
+          "Statista gave up traffic to keep its data out of chatbot answers.",
+          "AI crawlers started taking Statista’s data straight into chatbot answers, according to CEO Marc Berg.",
+          "Search traffic fell from about 35 million monthly active users to about 8 million.",
+          "Statista moved almost everything behind a registration wall because robots.txt did not stop all players.",
+          "Statista now sells access through Statista Connect, and usage is growing 25 to 30 times year over year."
+        ],
+        "suggestions": [
+          "Why did Statista choose control over search reach?",
+          "How did AI crawlers change the way Statista handled its data?",
+          "What is Statista Connect and why is usage growing?"
+        ],
+        "density": 0.303,
+        "quiz": {
+          "question": "About how many monthly active users did Statista’s search traffic fall to?",
+          "choices": [
+            "About 8 million",
+            "About 35 million",
+            "About 25 million",
+            "About 30 million"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-openai-says-heavy-chatgpt-users-may-hit-limits-s",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "topic": "AI Product",
+      "summary": "A small group of Pro subscribers are getting the update first, product lead Thibault “Tibo” Sottiaux said on X Tuesday. Heavy users may hit limits sooner; Instant stays unlimited.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/openai-says-heavy-chatgpt-users-may-hit-limits-s.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/openai-says-heavy-chatgpt-users-may-hit-limits-s.jpg",
+      "durationSec": 39,
+      "source": {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+      },
+      "date": "2026-11-25",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Limits. OpenAI’s Chat and Work merge is rolling out to a few users now. Heavy users may hit limits sooner; Instant stays unlimited. A small group of Pro subscribers are getting the update first, product lead Thibault “Tibo” Sottiaux said on X Tuesday. OpenAI says most users should not see more frequent resets. But a small fraction of heavy users may hit limits sooner. Chat and Work now share a single usage meter across ChatGPT. Instant stays unlimited and won’t count toward that allowance. OpenAI plans broader shared limits in December. It says it will keep improving efficiency so subscribers get more out of their plans.",
+        "sourceUrl": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "facts": [
+          "OpenAI’s Chat and Work merge is rolling out to a few users now.",
+          "A small group of Pro subscribers are getting the update first.",
+          "Chat and Work now share a single usage meter across ChatGPT.",
+          "Instant stays unlimited and will not count toward that allowance.",
+          "OpenAI plans broader shared limits in December."
+        ],
+        "suggestions": [
+          "Who is getting the Chat and Work update first?",
+          "What does it mean that Chat and Work share one usage meter?",
+          "Will most users see more frequent resets?"
+        ],
+        "density": 0.238,
+        "quiz": {
+          "question": "What happens to Instant under OpenAI’s new shared usage system?",
+          "choices": [
+            "It stays unlimited and does not count toward the allowance",
+            "It uses the same shared meter as Chat and Work",
+            "It will be limited sooner for heavy users",
+            "It is being removed for Pro subscribers"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-n8n-io-nod-open-source-personal-agent-with-its-o",
+      "title": "n8n-io/nod: open source personal agent with its own computer",
+      "topic": "AI Agent",
+      "summary": "It runs on your machine with the model you choose, and asks before it acts for you. Local, open source automation with your model and your rules.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/n8n-io-nod-open-source-personal-agent-with-its-o.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/n8n-io-nod-open-source-personal-agent-with-its-o.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "GitHub",
+        "url": "https://github.com/n8n-io/nod"
+      },
+      "date": "2026-11-26",
+      "burnedCaptions": true,
+      "channel": "repo-radar",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Nods. This open source agent chases invoices and preps calls on real websites. Local, open source automation with your model and your rules. It runs on your machine with the model you choose, and asks before it acts for you. Developers are starring it for memory, rules, and trust checks built into the workflow. It works across Gmail, Calendar, Slack, Notion, and the web, then writes a one-page brief. A Show HN post lists Local Node.js app to save everything you browse and serve it offline.",
+        "sourceUrl": "https://github.com/n8n-io/nod",
+        "facts": [
+          "Nods is an open source agent that chases invoices and preps calls on real websites.",
+          "It runs on your machine with the model you choose and asks before it acts for you.",
+          "Developers are starring it for memory, rules, and trust checks built into the workflow.",
+          "It works across Gmail, Calendar, Slack, Notion, and the web, then writes a one-page brief.",
+          "A Show HN post describes it as a local Node.js app to save everything you browse and serve it offline."
+        ],
+        "suggestions": [
+          "How does Nods ask before it acts on your behalf?",
+          "What does the workflow include for memory, rules, and trust checks?",
+          "What kinds of tasks can it do across Gmail, Calendar, Slack, and Notion?"
+        ],
+        "density": 0.215,
+        "quiz": {
+          "question": "Which of these is listed as one of the places Nods works across?",
+          "choices": [
+            "Gmail",
+            "Photos",
+            "Maps",
+            "Docs"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-42-state-ags-are-trying-to-stop-character-ai-fro",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "topic": "AI Policy",
+      "summary": "They say the sale could include more than 21 million U.S. accounts. The fight now is over who controls the chats.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/42-state-ags-are-trying-to-stop-character-ai-fro.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/42-state-ags-are-trying-to-stop-character-ai-fro.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+      },
+      "date": "2026-11-26",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "ags|character.ai",
+      "contextPack": {
+        "script": "Blocked. 42 state attorneys general say Character.AI may auction user chats. The fight now is over who controls the chats. They say the sale could include more than 21 million U.S. accounts. More than 2.1 million are registered to minors, with no safeguards for those conversations. Character.AI filed for bankruptcy in October, after years of scandals and legal challenges. Some states have laws on chatbots that may take effect on January 1st, 2027.",
+        "sourceUrl": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "facts": [
+          "42 state attorneys general say Character.AI may auction user chats.",
+          "The dispute is over who controls the chats.",
+          "The sale could include more than 21 million U.S. accounts.",
+          "More than 2.1 million of those accounts are registered to minors, and there are no safeguards for those conversations.",
+          "Character.AI filed for bankruptcy in October after years of scandals and legal challenges."
+        ],
+        "suggestions": [
+          "Why are state attorneys general trying to block the sale of user chats?",
+          "What protections are mentioned for minors’ conversations?",
+          "What chatbot laws may take effect on January 1st, 2027?"
+        ],
+        "density": 0.36,
+        "quiz": {
+          "question": "How many U.S. accounts could the sale include?",
+          "choices": [
+            "More than 21 million",
+            "About 2.1 million",
+            "42 million",
+            "More than 21,000"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-you-can-turn-claude-artifacts-into-windows-and-m",
+      "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+      "topic": "AI Tools",
+      "summary": "The feature is in beta for all free and paid Claude plans, but not Linux. Desktop apps, with permissions and usage limits still in play.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/you-can-turn-claude-artifacts-into-windows-and-m.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/you-can-turn-claude-artifacts-into-windows-and-m.jpg",
+      "durationSec": 31,
+      "source": {
+        "name": "The Frontier Wire: AI News",
+        "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows"
+      },
+      "date": "2026-11-25",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "mac|windows",
+      "contextPack": {
+        "script": "Launched. Anthropic’s artifacts can now open as desktop apps on Mac and Windows. Desktop apps, with permissions and usage limits still in play. The feature is in beta for all free and paid Claude plans, but not Linux. Artifacts can get their own icon, open in their own window, and be shared with others. You can install one from Claude’s Share menu after updating Claude for Mac or Windows. They still need you signed in to Claude and online, and full computer access is limited.",
+        "sourceUrl": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows",
+        "facts": [
+          "Anthropic’s artifacts can now open as desktop apps on Mac and Windows.",
+          "The feature is in beta for all free and paid Claude plans, but not Linux.",
+          "Artifacts can get their own icon, open in their own window, and be shared with others.",
+          "You can install one from Claude’s Share menu after updating Claude for Mac or Windows.",
+          "The apps still need you signed in to Claude and online, and full computer access is limited."
+        ],
+        "suggestions": [
+          "How do you install an artifact as a desktop app from Claude?",
+          "What limits still apply to these Claude desktop apps?",
+          "Why is the feature available on Mac and Windows but not Linux?"
+        ],
+        "density": 0.264,
+        "quiz": {
+          "question": "Where can you install a Claude artifact desktop app from after updating Claude?",
+          "choices": [
+            "Claude’s Share menu",
+            "The Mac App Store",
+            "A Linux terminal",
+            "Windows Task Manager"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-exclusive-us-chip-curbs-distillation-crackdown-t",
+      "title": "Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+      "topic": "AI Model Development",
+      "summary": "Z.AI has fallen behind on GLM-5.5, its next flagship model, people familiar with the matter said. Chinese AI developers may lose speed and cost advantages.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/exclusive-us-chip-curbs-distillation-crackdown-t.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/exclusive-us-chip-curbs-distillation-crackdown-t.jpg",
+      "durationSec": 40,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.livemint.com/technology/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677671352.html"
+      },
+      "date": "2026-11-26",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "chinese|exclusive-us",
+      "contextPack": {
+        "script": "Curbed. Chinese AI developers face slower releases and tighter chip access. Chinese AI developers may lose speed and cost advantages. Z.AI has fallen behind on GLM-5.5, its next flagship model, people familiar with the matter said. Moonshot AI says the gap between major releases could stretch from six months to a year or longer. OpenAI and Anthropic have tried to stop distillation, while Washington's latest chip restrictions add more delays. The US rule took effect on November 19 and targets overseas data centres above a threshold roughly equivalent to 750 H100 chips.",
+        "sourceUrl": "https://www.livemint.com/technology/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-11795677671352.html",
+        "facts": [
+          "Chinese AI developers face slower releases and tighter chip access.",
+          "Chinese AI developers may lose speed and cost advantages.",
+          "Z.AI has fallen behind on GLM-5.5, its next flagship model, people familiar with the matter said.",
+          "Moonshot AI says the gap between major releases could stretch from six months to a year or longer.",
+          "Washington's latest chip restrictions took effect on November 19 and target overseas data centres above a threshold roughly equivalent to 750 H100 chips."
+        ],
+        "suggestions": [
+          "What is distillation, and why are OpenAI and Anthropic trying to stop it?",
+          "How could the new US chip restrictions affect Chinese AI model releases?",
+          "Why would slower chip access change the speed and cost advantages of Chinese AI developers?"
+        ],
+        "density": 0.564,
+        "quiz": {
+          "question": "According to the script, what did Moonshot AI say about the gap between major releases?",
+          "choices": [
+            "It could stretch from six months to a year or longer.",
+            "It would shrink to less than a month.",
+            "It would stay fixed at six months.",
+            "It would end after November 19."
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-claude-enterprise-analytics-api-changes-session",
+      "title": "Claude Enterprise Analytics API changes session counting rules",
+      "topic": "AI Analytics",
+      "summary": "The new rule starts the first time on a UTC day that Claude successfully runs a Bash command, creates a file, or edits a file. Counts can shift as chats move to the new rule.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-enterprise-analytics-api-changes-session.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-enterprise-analytics-api-changes-session.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "Claude Developer Platform release notes",
+        "url": "https://docs.claude.com/en/release-notes/overview#2026-11-20"
+      },
+      "date": "2026-11-20",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "analytics|enterprise",
+      "contextPack": {
+        "script": "Changed. Claude now counts a session when a Bash command, file creation, or file edit happens. Counts can shift as chats move to the new rule. The new rule starts the first time on a UTC day that Claude successfully runs a Bash command, creates a file, or edits a file. It ends when that day ends. Until the change reaches a chat, the previous rule still applies. The API does not show which rule a chat follows, so counts can change later. That can shift chat, session, message, action, file edit, connector, skill, plugin, and artifact counts.",
+        "sourceUrl": "https://docs.claude.com/en/release-notes/overview#2026-11-20",
+        "facts": [
+          "Claude now counts a session when a Bash command, file creation, or file edit happens.",
+          "The new rule starts the first time on a UTC day that Claude successfully runs a Bash command, creates a file, or edits a file, and it ends when that day ends.",
+          "Until the change reaches a chat, the previous rule still applies.",
+          "The API does not show which rule a chat follows, so counts can change later.",
+          "The change can shift chat, session, message, action, file edit, connector, skill, plugin, and artifact counts."
+        ],
+        "suggestions": [
+          "How does the new session counting rule start and end?",
+          "Why can counts change later even after a chat is created?",
+          "Which counts can shift under the new rule?"
+        ],
+        "density": 0.314,
+        "quiz": {
+          "question": "When does Claude now count a session?",
+          "choices": [
+            "When a Bash command, file creation, or file edit happens",
+            "When a chat reaches 100 messages",
+            "When a connector is added to a chat",
+            "When the API shows the new rule is active"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-codex-update-open-zip-files-in-the-file-viewer",
+      "title": "Codex update: open ZIP files in the file viewer",
+      "topic": "AI Update",
+      "summary": "The November 20 update adds new features to Codex app 26.1117. Useful file viewing, plus a bug fix.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-update-open-zip-files-in-the-file-viewer.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-update-open-zip-files-in-the-file-viewer.jpg",
+      "durationSec": 30,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-19"
+      },
+      "date": "2026-11-19",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "ZIP. Open ZIP files in Codex to browse folders and preview files. Useful file viewing, plus a bug fix. The November 20 update adds new features to Codex app 26.1117. In the file viewer, open a ZIP file to browse folders and preview PDFs and images. Codex also got performance improvements and bug fixes. It fixed an issue where recent activity could disappear from a long local chat while Codex was still working.",
+        "sourceUrl": "https://developers.openai.com/codex/changelog#2026-11-19",
+        "facts": [
+          "Codex can open ZIP files in the file viewer to browse folders and preview files.",
+          "The file viewer can preview PDFs and images inside a ZIP file.",
+          "The November 20 update adds new features to Codex app 26.1117.",
+          "Codex also got performance improvements and bug fixes.",
+          "The update fixed an issue where recent activity could disappear from a long local chat while Codex was still working."
+        ],
+        "suggestions": [
+          "How does browsing a ZIP file work in the Codex file viewer?",
+          "What file types can Codex preview inside a ZIP?",
+          "What bug did the November 20 update fix?"
+        ],
+        "density": 0.327,
+        "quiz": {
+          "question": "What can Codex preview inside a ZIP file in the file viewer?",
+          "choices": [
+            "PDFs and images",
+            "Videos and audio files",
+            "Spreadsheets and presentations",
+            "Only text files"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-introducing-tool-retrieval-in-the-gemini-api",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "topic": "AI Tools",
+      "summary": "Tool Retrieval is in preview in the Gemini Interactions API. Built for larger tool libraries, with less context and faster calls.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/introducing-tool-retrieval-in-the-gemini-api.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/introducing-tool-retrieval-in-the-gemini-api.jpg",
+      "durationSec": 29,
+      "source": {
+        "name": "Google AI (The Keyword)",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+      },
+      "date": "2026-11-19",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "retrieval|tool",
+      "contextPack": {
+        "script": "Preview. Gemini API now loads tool details only when needed. Built for larger tool libraries, with less context and faster calls. Tool Retrieval is in preview in the Gemini Interactions API. Instead of sending every full tool schema, the model keeps them on standby. That can reduce input tokens, latency, and tool-selection mistakes as libraries grow. To try it, add a tool_search tool and set defer_loading to true.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+        "facts": [
+          "Gemini API now loads tool details only when they are needed.",
+          "Tool Retrieval is built for larger tool libraries and aims for less context and faster calls.",
+          "Tool Retrieval is in preview in the Gemini Interactions API.",
+          "Instead of sending every full tool schema, the model keeps tool details on standby.",
+          "The feature can reduce input tokens, latency, and tool-selection mistakes as libraries grow."
+        ],
+        "suggestions": [
+          "How does Tool Retrieval change the way the Gemini API handles tool schemas?",
+          "Why does keeping tools on standby help with larger tool libraries?",
+          "What do you need to add to try Tool Retrieval in the Gemini API?"
+        ],
+        "density": 0.539,
+        "quiz": {
+          "question": "What should you add to try Tool Retrieval in the Gemini API?",
+          "choices": [
+            "A tool_search tool and set defer_loading to true",
+            "A full tool schema and set defer_loading to false",
+            "A tool_index tool and set eager_loading to true",
+            "A search plugin and set context_sharing to true"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-tidal-announces-ban-on-ai-generated-music-27-mil",
       "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
       "topic": "AI Music",
