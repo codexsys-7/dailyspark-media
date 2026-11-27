@@ -2,6 +2,274 @@
   "version": 1,
   "items": [
     {
+      "id": "gen-nvidia-reportedly-halts-ai-chip-shipments-to-sou",
+      "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+      "topic": "AI Shipments",
+      "summary": "Dell and Supermicro told clients in Malaysia, Singapore, Thailand and Indonesia their server orders won’t ship. NVIDIA’s Southeast Asia pipeline just hit a major export-control wall.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/nvidia-reportedly-halts-ai-chip-shipments-to-sou.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/nvidia-reportedly-halts-ai-chip-shipments-to-sou.jpg",
+      "durationSec": 32,
+      "source": {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+      },
+      "date": "2026-11-26",
+      "burnedCaptions": true,
+      "channel": "drama",
+      "format": "explainer",
+      "storyKey": "asia|southeast",
+      "contextPack": {
+        "script": "Halt. NVIDIA reportedly cut off AI server shipments to four countries. NVIDIA’s Southeast Asia pipeline just hit a major export-control wall. Dell and Supermicro told clients in Malaysia, Singapore, Thailand and Indonesia their server orders won’t ship. The Financial Times says it’s unclear whether the halt is temporary. The move comes as the US Commerce Department targets Megaspeed and tightens the loophole. A cloud executive says no one knows how to apply for the license while the 90-day clock ticks.",
+        "sourceUrl": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+        "facts": [
+          "NVIDIA reportedly cut off AI server shipments to four countries.",
+          "Dell and Supermicro told clients in Malaysia, Singapore, Thailand and Indonesia that their server orders would not ship.",
+          "The Financial Times says it is unclear whether the halt is temporary.",
+          "The move comes as the US Commerce Department targets Megaspeed and tightens the loophole.",
+          "A cloud executive said no one knows how to apply for the license while the 90-day clock ticks."
+        ],
+        "suggestions": [
+          "Why were server shipments to these four countries halted?",
+          "What does the script mean by a tightened loophole?",
+          "Why is the 90-day clock important here?"
+        ],
+        "density": 0.457,
+        "quiz": {
+          "question": "Which countries were told their server orders would not ship?",
+          "choices": [
+            "Malaysia, Singapore, Thailand, and Indonesia",
+            "Japan, South Korea, Taiwan, and Vietnam",
+            "India, China, the Philippines, and Brunei",
+            "Australia, New Zealand, Laos, and Cambodia"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-claude-empowering-retail-investors-to-be-equity",
+      "title": "Claude Empowering Retail Investors to be Equity Analysts",
+      "topic": "AI Finance",
+      "summary": "The plugin includes nine commands for initiating coverage, earnings updates, model refreshes, morning notes, thesis tracking, catalysts, screening, and sector overviews. Useful for research workflows, but not a substitute for judgment.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/claude-empowering-retail-investors-to-be-equity.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/claude-empowering-retail-investors-to-be-equity.jpg",
+      "durationSec": 45,
+      "source": {
+        "name": "AI News Hub (aienews.org)",
+        "url": "https://www.ai-supremacy.com/p/claude-empowering-retail-investors"
+      },
+      "date": "2026-11-27",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "analysts|empowering|equity|investors|retail",
+      "contextPack": {
+        "script": "Analysts. Claude now turns research prompts into equity reports and model updates. Useful for research workflows, but not a substitute for judgment. The plugin includes nine commands for initiating coverage, earnings updates, model refreshes, morning notes, thesis tracking, catalysts, screening, and sector overviews. It can draft 6,000 to 8,000-word initiation reports and 3,000 to 5,000-word earnings reports from filings, transcripts, and consensus estimates. A practical workflow: install equity-research, open a new chat, then use /catalysts plus a stock ticker to generate a report. The post says Claude can help retail investors, but its estimates often mirror sell-side analysts and may not offer a variant view.",
+        "sourceUrl": "https://www.ai-supremacy.com/p/claude-empowering-retail-investors",
+        "facts": [
+          "Claude turns research prompts into equity reports and model updates.",
+          "The plugin includes nine commands for tasks like initiating coverage, earnings updates, model refreshes, morning notes, thesis tracking, catalysts, screening, and sector overviews.",
+          "It can draft 6,000 to 8,000-word initiation reports and 3,000 to 5,000-word earnings reports from filings, transcripts, and consensus estimates.",
+          "A practical workflow is to install equity-research, open a new chat, and use /catalysts with a stock ticker to generate a report.",
+          "The post says Claude can help retail investors, but its estimates often mirror sell-side analysts and may not offer a variant view."
+        ],
+        "suggestions": [
+          "How does Claude use filings, transcripts, and consensus estimates in its reports?",
+          "What do the nine plugin commands do for equity research?",
+          "Why might Claude's estimates not provide a variant view?"
+        ],
+        "density": 0.488,
+        "quiz": {
+          "question": "Which command is mentioned as part of the practical workflow for generating a report?",
+          "choices": [
+            "/catalysts",
+            "/earnings",
+            "/refresh",
+            "/overview"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-codex-cli-0-169-0-adds-side-chat-tabs-and-cloud",
+      "title": "Codex CLI 0.169.0 adds side-chat tabs and Cloud tools",
+      "topic": "Codex Update",
+      "summary": "The opt-in terminal workspace now supports multiple side-chat tabs. You can switch with keyboard or mouse, and reopen saved local side chats after restarting Codex. More control in terminal, Cloud, and task history.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/codex-cli-0-169-0-adds-side-chat-tabs-and-cloud.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/codex-cli-0-169-0-adds-side-chat-tabs-and-cloud.jpg",
+      "durationSec": 41,
+      "source": {
+        "name": "OpenAI Codex changelog",
+        "url": "https://developers.openai.com/codex/changelog#2026-11-13"
+      },
+      "date": "2026-11-13",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "cli|cloud",
+      "contextPack": {
+        "script": "Sidebar. Codex adds multiple side-chat tabs and new terminal controls. More control in terminal, Cloud, and task history. The opt-in terminal workspace now supports multiple side-chat tabs. You can switch with keyboard or mouse, and reopen saved local side chats after restarting Codex. Search older tasks from the agent command center by name, prompt preview, or working directory. In the terminal report editor, press Ctrl+S to save a diagnostic ZIP locally, even when uploads are disabled. With the opt-in Cloud connection on macOS and Linux, send images, choose a model and reasoning effort, and archive or restore Cloud conversations from the terminal.",
+        "sourceUrl": "https://developers.openai.com/codex/changelog#2026-11-13",
+        "facts": [
+          "Codex adds multiple side-chat tabs and new terminal controls.",
+          "The opt-in terminal workspace supports multiple side-chat tabs that can be switched with keyboard or mouse.",
+          "Saved local side chats can be reopened after restarting Codex.",
+          "Older tasks can be searched from the agent command center by name, prompt preview, or working directory.",
+          "In the terminal report editor, Ctrl+S saves a diagnostic ZIP locally even when uploads are disabled."
+        ],
+        "suggestions": [
+          "How do side-chat tabs work in the Codex terminal workspace?",
+          "What can you search for in the agent command center?",
+          "What does the Cloud connection let you do on macOS and Linux?"
+        ],
+        "density": 0.282,
+        "quiz": {
+          "question": "In the terminal report editor, what does Ctrl+S do?",
+          "choices": [
+            "Saves a diagnostic ZIP locally",
+            "Uploads the report to Cloud",
+            "Opens a new side-chat tab",
+            "Restores an archived conversation"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-how-openai-s-performance-factory-keeps-chatgpt-f",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "topic": "AI Tools",
+      "summary": "The Performance Factory runs in the cloud and automates investigating and resolving performance problems. OpenAI is turning performance engineering into an agent workflow.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/how-openai-s-performance-factory-keeps-chatgpt-f.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/how-openai-s-performance-factory-keeps-chatgpt-f.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+      },
+      "date": "2026-11-19",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "storyKey": "factory|performance",
+      "contextPack": {
+        "script": "Factory. OpenAI says Codex now helps find and fix performance regressions faster. OpenAI is turning performance engineering into an agent workflow. The Performance Factory runs in the cloud and automates investigating and resolving performance problems. Its first workflow, the Regression Workflow, opens a task when a performance alert fires. An agent investigates, proposes a fix for an engineer to review, then checks recovery after deployment. OpenAI says this workflow tracked more than 1,700 investigations and root caused over 600 cases in just over three months.",
+        "sourceUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+        "facts": [
+          "OpenAI says Codex now helps find and fix performance regressions faster.",
+          "OpenAI is turning performance engineering into an agent workflow.",
+          "The Performance Factory runs in the cloud and automates investigating and resolving performance problems.",
+          "Its first workflow, the Regression Workflow, opens a task when a performance alert fires and has an agent propose a fix for engineer review.",
+          "OpenAI says the workflow tracked more than 1,700 investigations and root caused over 600 cases in just over three months."
+        ],
+        "suggestions": [
+          "How does the Regression Workflow respond when a performance alert fires?",
+          "What part of the fix still needs an engineer to review it?",
+          "How many investigations and root-caused cases did OpenAI say the workflow handled?"
+        ],
+        "density": 0.42,
+        "quiz": {
+          "question": "What happens after the agent investigates a performance problem in the Regression Workflow?",
+          "choices": [
+            "It proposes a fix for an engineer to review",
+            "It immediately deploys the fix without review",
+            "It ignores the alert until the next day",
+            "It shuts down the performance system"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-put-gemini-to-work-for-you",
+      "title": "Put Gemini to work for you",
+      "topic": "AI Assistant",
+      "summary": "It can schedule appointments, manage bills, and shop for groceries. Gemini is becoming a hands-on personal assistant.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/put-gemini-to-work-for-you.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/put-gemini-to-work-for-you.jpg",
+      "durationSec": 31,
+      "source": {
+        "name": "Google Gemini blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+      },
+      "date": "2026-11-17",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Tasks. Gemini can now make calls, pay bills, and finish errands. Gemini is becoming a hands-on personal assistant. It can schedule appointments, manage bills, and shop for groceries. The update is rolling out free to hundreds of millions of people across the U.S. and more. You can switch the Gemini app from Chat to Task, text Gemini, or forward emails to gemini@google.com. Gemini uses isolated environments and Google Cloud’s Agent Compute Engine to keep tasks secure.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+        "facts": [
+          "Gemini can now make calls, pay bills, and finish errands.",
+          "It can also schedule appointments, manage bills, and shop for groceries.",
+          "The update is rolling out free to hundreds of millions of people across the U.S. and more.",
+          "You can switch the Gemini app from Chat to Task, text Gemini, or forward emails to gemini@google.com.",
+          "Gemini uses isolated environments and Google Cloud's Agent Compute Engine to keep tasks secure."
+        ],
+        "suggestions": [
+          "How does Gemini switch from Chat to Task?",
+          "What kinds of errands can Gemini handle?",
+          "How does Gemini keep tasks secure?"
+        ],
+        "density": 0.375,
+        "quiz": {
+          "question": "What can you do to give Gemini tasks?",
+          "choices": [
+            "Switch the app from Chat to Task, text Gemini, or forward emails to gemini@google.com",
+            "Only call Gemini through a separate website",
+            "Send tasks by SMS to a phone number",
+            "Use Gemini only for writing documents"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
+      "id": "gen-regional-voices-are-rolling-out-in-the-gemini-ap",
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "topic": "AI Product Update",
+      "summary": "Google says the voices cover U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean. A more personal Gemini voice is rolling out now.",
+      "videoUrl": "https://codexsys-7.github.io/dailyspark-media/reels/regional-voices-are-rolling-out-in-the-gemini-ap.mp4",
+      "thumbnailUrl": "https://codexsys-7.github.io/dailyspark-media/thumbs/regional-voices-are-rolling-out-in-the-gemini-ap.jpg",
+      "durationSec": 36,
+      "source": {
+        "name": "Google Gemini blog",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/"
+      },
+      "date": "2026-11-16",
+      "burnedCaptions": true,
+      "channel": "chatbot-wars",
+      "format": "explainer",
+      "contextPack": {
+        "script": "Voices. Gemini is adding 66 regional voices across Android and iOS. A more personal Gemini voice is rolling out now. Google says the voices cover U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean. Each voice is tuned for natural cadences and everyday clarity, not exaggerated accents. Your selected voice carries across Gemini Live, language practice, and Listen in chat. To preview options, tap the three-dot menu in Gemini Live, or open Gemini’s voice in app settings.",
+        "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+        "facts": [
+          "Gemini is adding 66 regional voices across Android and iOS.",
+          "Google says the voices cover U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean.",
+          "The voices are tuned for natural cadences and everyday clarity, not exaggerated accents.",
+          "Your selected voice carries across Gemini Live, language practice, and Listen in chat.",
+          "To preview voice options, you can tap the three-dot menu in Gemini Live or open Gemini’s voice in app settings."
+        ],
+        "suggestions": [
+          "How do you preview the new Gemini voice options?",
+          "Which languages and regions are included in Gemini’s new voices?",
+          "Where does your selected Gemini voice carry over to?"
+        ],
+        "density": 0.377,
+        "quiz": {
+          "question": "How many regional voices is Gemini adding?",
+          "choices": [
+            "66",
+            "36",
+            "60",
+            "76"
+          ],
+          "answerIndex": 0
+        }
+      }
+    },
+    {
       "id": "gen-statista-gave-up-most-of-its-35-million-monthly",
       "title": "Statista gave up most of its 35 million monthly search users to keep its data away from AI",
       "topic": "AI Data Access",
